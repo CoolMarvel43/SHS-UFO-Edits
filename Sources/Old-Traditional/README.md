@@ -1,5 +1,11 @@
 # Old Traditional
 
+### Note: As of September 2025, this folder as it is has been deprecated.
+
+*Although the original aim of this folder will continue, there are bigger priorities to change CN glyphs for commonly used characters to JP-style and to make modern orthographies for Traditional Chinese while keeping elements of Kangxi-style (or JP-style) printed forms. In other words, there will be new naming for this folder and almost all of the glyphs inside, as they will be sorted into new different folders as appropriate. They will not be removed from the repository, only organised, with the exception of a few minor “bugfix” glyphs, because Adobe has since fixed them in the main source for Sans v2.005.*
+
+*Therefore, this part of the orthography may instead be called Retro Phototype Traditional once organisation is complete.*
+
 ### Overview
 
 This category consists of Chinese characters as they appeared in the 1970s and 1980s during the phototypesetting era, particularly in Taiwan and Hong Kong.
