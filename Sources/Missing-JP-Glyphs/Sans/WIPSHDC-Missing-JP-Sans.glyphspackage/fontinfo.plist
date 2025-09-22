@@ -30,37 +30,12 @@ value = (
 {
 name = unicodeRanges;
 value = (
-0,
-1,
-7,
-29,
-36,
-42,
-43,
-44,
-45,
-48,
-49,
-50,
-54,
-55,
-57,
-59,
-61,
-65,
-66,
-68
+59
 );
 },
 {
 name = codePageRanges;
 value = (
-"1252",
-"1250",
-"1251",
-"932",
-"bit 29",
-"bit 30"
 );
 },
 {
@@ -78,7 +53,7 @@ value = (
 );
 }
 );
-date = "2023-01-09 15:37:48 +0000";
+date = "2025-09-22 15:40:44 +0000";
 familyName = "WIPSHDC-Missing-JP-Sans";
 fontMaster = (
 {
@@ -131,22 +106,18 @@ iconName = Light;
 id = m01;
 metricValues = (
 {
-over = 16;
 pos = 880;
 },
 {
-over = 16;
 pos = 733;
 },
 {
-over = 16;
 pos = 543;
 },
 {
-over = -16;
+over = -13;
 },
 {
-over = -16;
 pos = -120;
 },
 {
@@ -213,6 +184,7 @@ pos = 733;
 pos = 543;
 },
 {
+over = -14;
 },
 {
 pos = -120;
@@ -320,10 +292,43 @@ type = descender;
 type = "italic angle";
 }
 );
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "© 2014-2025 Adobe (http://www.adobe.com/).";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = ENG;
+value = "NOTICE: THIS IS NOT A FULL FONT. IT IS RECOMMENDED TO USE ONLY FOR FONT PRODUCTION PURPOSES.";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ENG;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+}
+);
 settings = {
 disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 0;
+versionMajor = 0;
+versionMinor = 3;
 }
