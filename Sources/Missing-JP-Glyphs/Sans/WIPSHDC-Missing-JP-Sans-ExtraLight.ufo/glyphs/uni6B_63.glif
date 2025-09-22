@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni6B63" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="6B63"/>
+  <note>
+cid22628
+</note>
+  <outline>
+    <contour>
+      <point x="905" y="719" type="line"/>
+      <point x="905" y="749" type="line"/>
+      <point x="101" y="749" type="line"/>
+      <point x="101" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="867" y="376" type="line"/>
+      <point x="867" y="405" type="line"/>
+      <point x="510" y="405" type="line"/>
+      <point x="510" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="942" y="-19" type="line"/>
+      <point x="942" y="10" type="line"/>
+      <point x="59" y="10" type="line"/>
+      <point x="59" y="-19" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="-5" type="line"/>
+      <point x="525" y="741" type="line"/>
+      <point x="496" y="741" type="line"/>
+      <point x="496" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="-5" type="line"/>
+      <point x="238" y="507" type="line"/>
+      <point x="209" y="507" type="line"/>
+      <point x="209" y="-5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-22 12:09:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

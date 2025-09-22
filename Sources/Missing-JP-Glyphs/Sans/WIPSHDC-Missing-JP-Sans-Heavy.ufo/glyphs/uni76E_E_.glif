@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni76EE" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="76EE"/>
+  <note>
+cid27871
+</note>
+  <outline>
+    <contour>
+      <point x="765" y="433" type="line"/>
+      <point x="765" y="572" type="line"/>
+      <point x="242" y="572" type="line"/>
+      <point x="242" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="765" y="201" type="line"/>
+      <point x="765" y="340" type="line"/>
+      <point x="242" y="340" type="line"/>
+      <point x="242" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="765" y="-35" type="line"/>
+      <point x="765" y="109" type="line"/>
+      <point x="242" y="109" type="line"/>
+      <point x="242" y="-35" type="line"/>
+    </contour>
+    <contour>
+      <point x="868" y="-95" type="line"/>
+      <point x="868" y="805" type="line"/>
+      <point x="136" y="805" type="line"/>
+      <point x="136" y="-95" type="line"/>
+      <point x="283" y="-95" type="line"/>
+      <point x="283" y="661" type="line"/>
+      <point x="713" y="661" type="line"/>
+      <point x="713" y="-95" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-22 12:09:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3343";
 .formatVersion = 3;
 axes = (
 {
@@ -150,7 +150,6 @@ over = -16;
 pos = -120;
 },
 {
-over = -16;
 }
 );
 name = ExtraLight;

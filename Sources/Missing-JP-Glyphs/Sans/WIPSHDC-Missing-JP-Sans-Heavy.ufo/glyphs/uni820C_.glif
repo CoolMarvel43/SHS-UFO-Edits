@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni820C" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="820C"/>
+  <note>
+cid33366
+</note>
+  <outline>
+    <contour>
+      <point x="961" y="440" type="line"/>
+      <point x="961" y="575" type="line"/>
+      <point x="42" y="575" type="line"/>
+      <point x="42" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="763" y="-59" type="line"/>
+      <point x="763" y="72" type="line"/>
+      <point x="231" y="72" type="line"/>
+      <point x="231" y="-59" type="line"/>
+    </contour>
+    <contour>
+      <point x="571" y="273" type="line"/>
+      <point x="571" y="768" type="line"/>
+      <point x="420" y="768" type="line"/>
+      <point x="420" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="843" y="-93" type="line"/>
+      <point x="843" y="334" type="line"/>
+      <point x="157" y="334" type="line"/>
+      <point x="157" y="-93" type="line"/>
+      <point x="300" y="-93" type="line"/>
+      <point x="300" y="203" type="line"/>
+      <point x="692" y="203" type="line"/>
+      <point x="692" y="-93" type="line"/>
+    </contour>
+    <contour>
+      <point x="885" y="746" type="curve"/>
+      <point x="764" y="856" type="line"/>
+      <point x="611" y="809"/>
+      <point x="349" y="788"/>
+      <point x="111" y="785" type="curve"/>
+      <point x="126" y="753"/>
+      <point x="142" y="695"/>
+      <point x="145" y="660" type="curve"/>
+      <point x="392" y="662"/>
+      <point x="676" y="682"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-22 12:09:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

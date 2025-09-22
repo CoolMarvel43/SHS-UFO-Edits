@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni725B" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="725B"/>
+  <note>
+cid25839
+</note>
+  <outline>
+    <contour>
+      <point x="293" y="791" type="curve"/>
+      <point x="265" y="798" type="line"/>
+      <point x="223" y="664"/>
+      <point x="156" y="532"/>
+      <point x="77" y="445" type="curve"/>
+      <point x="84" y="441"/>
+      <point x="96" y="431"/>
+      <point x="102" y="426" type="curve"/>
+      <point x="179" y="518"/>
+      <point x="248" y="651"/>
+    </contour>
+    <contour>
+      <point x="888" y="605" type="line"/>
+      <point x="888" y="634" type="line"/>
+      <point x="213" y="634" type="line"/>
+      <point x="204" y="605" type="line"/>
+    </contour>
+    <contour>
+      <point x="942" y="299" type="line"/>
+      <point x="942" y="328" type="line"/>
+      <point x="59" y="328" type="line"/>
+      <point x="59" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="-69" type="line"/>
+      <point x="517" y="831" type="line"/>
+      <point x="487" y="831" type="line"/>
+      <point x="487" y="-69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-22 12:09:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>
