@@ -5,17 +5,18 @@ This is a quick-and-dirty repository to store my edits to [Source Han Sans](http
 
 For convenience purposes, the OTF and TTF file formats will be provided, with all weights provided, overlaps removed and no hinting, but will only contain modified glyphs. They are not full fonts so they are unsuitable as to be used as standalone fonts. Feel free to integrate them into your forks as you please. As of September 2025, only the Missing JP sources and Japanese Kana edits have those formats, and eventually they will be provided for other orthography formats.
 
-Unfortunately to do so, the sources will now include two additional characters which I do not include in their glyph lists: .notdef and space (taken straight from Source Han Sans/Serif). This is required for Adobe-Identity0 to work correctly when exporting OTF and TTF file formats, so please ignore these two characters if you work with the source files.
+Unfortunately to do so, the sources will now include two additional characters which I do not include in their glyph lists: .notdef and space (taken straight from Source Han Sans/Serif). This is required for Adobe-Identity-0 to work correctly when exporting OTF and TTF file formats, so please ignore these two characters if you work with the source files.
 
 This repository is divided into folder categories of orthography formats, followed by typeface style. For now, there is only the traditional orthography format (Simplified Chinese: 旧字形/传承字形; Traditional Chinese: 舊字形/傳承字形), the JP glyphs missing from the main font and some Japanese kana edits available. More orthography formats will follow in the near future.
 
 Further plans may include (but production and release date undetermined):
 - Modern TC forms (but not adopting handwritten forms like LiHei Pro and the Chiron HK series). There will be two versions:
 	- A version that preserves some traditional orthography forms (like the 示 and 羽 components), similar to the unfinished Taipei Sans TC beta and some old commercial fonts. Glyph reference will roughly follow that of LXGW XiHei MN.
-	- A version that is mostly based on the glyph shapes of IBM Plex Sans TC and v2 of the TW version of ButTaiwan's Gen fonts (which has since been separated into classic TC and modern TW versions). It aims to satisfy the needs of people who are much more used to the handwritten forms of modern Chinese fonts. The designs will match the Adobe-designed JP glyphs rather than use the CN-style designs of Changzhou SinoType.
-- CN-style orthography for Japanese kanji (up to Adobe-Japan1-3 coverage), which may be similar to Kyōkasho forms that are seen in commercial Japanese fonts that are intended for the educational market (but will not follow those forms).
-- JP-style orthography for Simplified Chinese hanzi while closely following Mainland Chinese glyph standards.
-- A CSV file containing remaps to CIDs and to point to modified glyphs for each orthography folder. This can be one step closer to producing a full Source Han Sans derivative with customised remapped and modified glyphs.
+	- A version that is mostly based on the glyph shapes of IBM Plex Sans TC and v2 of the TW version of ButTaiwan's Gen fonts (which has since been separated into classic TC and modern TW versions). It aims to satisfy the needs of people who are much more used to the handwritten forms of modern Chinese fonts. The designs aim to match the Adobe-designed JP glyphs rather than use the CN-style designs of Changzhou SinoType wherever possible.
+- CN-style orthography for Japanese kanji (up to Adobe-Japan1-3 coverage), which aims to look similar to Kyōkasho forms that are seen in commercial Japanese fonts that are intended for the educational market (but will not follow those forms).
+- An alternate JP-style orthography for Simplified Chinese hanzi while closely following Mainland Chinese glyph standards.
+	- For example, the first stroke in 宀 is a vertical stroke, similar to JP forms, not a drop according to handwritten 新字形 rules. However, 纟 will follow forms similar to commercial fonts like LiHei Pro (seen in the 糹 radical), and the first stroke of some components, like 言 and 户 (except for 所), will have a vertical stroke.
+- A CSV file containing remaps to CIDs and to point to modified glyphs for each orthography folder. This can be one step closer to producing a full Source Han Sans derivative with customised remapped and modified glyphs. Some code points are taken from different orthography folders, and will be noted as such.
 
 Regarding the versions, since 2025, my edits are based on Source Han Sans v2.005 and Source Han Serif v2.003. If a new version is released, any glyphs added from that version will be noted down as such.
 
