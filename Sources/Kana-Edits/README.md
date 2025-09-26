@@ -30,3 +30,13 @@ The following glyphs are available (sorted according to source file glyph order)
 | uni30AAuni3099-V |                                            | 65487                   | オ゛                   | Removed hook from vertical stroke        |
 
 More to come in a future update, specifically the extra square katakana symbols not covered in Adobe-Japan1-3.
+
+## Changelog
+
+- [Sans](changelog-kana-sans.md)
+
+## PDF Preview
+
+A visual representation of the glyph edits is available in PDF format, in ExtraLight, Regular and Heavy weights.
+
+- [Sans](Sans/Preview/)
