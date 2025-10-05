@@ -3,13 +3,14 @@
 ## About
 This is a quick-and-dirty repository to store my edits to [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) and [Serif](https://github.com/adobe-fonts/source-han-serif) (思源黑體/思源宋體). For now, they are only provided in UFO and glyphspackage formats, the former for which can be read by most font editors and the latter specifically for [Glyphs for Mac](https://glyphsapp.com/). The sources are overlapped, which is suitable for variable fonts, and available in two masters, ExtraLight and Heavy.
 
-For convenience purposes, the OTF and TTF file formats will be provided, with all weights provided, overlaps removed and no hinting, but will only contain modified glyphs. They are not full fonts so they are unsuitable as to be used as standalone fonts. Feel free to integrate them into your forks as you please. As of September 2025, only the Missing JP sources and Japanese Kana edits have those formats, and eventually they will be provided for other orthography formats.
+For convenience purposes, the OTF and TTF file formats will be provided, with all weights provided, overlaps removed and no hinting, but will only contain modified glyphs. They are not full fonts so they are unsuitable as to be used as standalone fonts. Feel free to integrate them into your forks as you please.
 
 Unfortunately to do so, the sources will now include two additional characters which I do not include in their glyph lists: .notdef and space (taken straight from Source Han Sans/Serif). This is required for Adobe-Identity-0 to work correctly when exporting OTF and TTF file formats, so please ignore these two characters if you work with the source files.
 
-This repository is divided into folder categories of orthography formats, followed by typeface style. For now, there is only the traditional orthography format (Simplified Chinese: 旧字形/传承字形; Traditional Chinese: 舊字形/傳承字形), the JP glyphs missing from the main font and some Japanese kana edits available. More orthography formats will follow in the near future.
+This repository is divided into folder categories of orthography formats, followed by typeface style.
 
 Further plans may include (but production and release date undetermined):
+- Expansion of old traditional Classic forms to fully cover most common Traditional Chinese character lists. This will continue in 2025 and beyond.
 - Modern TC forms (but not adopting handwritten forms like LiHei Pro and the Chiron HK series). There will be two versions:
 	- A version that preserves some traditional orthography forms (like the 示 and 羽 components), similar to the unfinished Taipei Sans TC beta and some old commercial fonts. Glyph reference will roughly follow that of LXGW XiHei MN.
 	- A version that is mostly based on the glyph shapes of IBM Plex Sans TC and v2 of the TW version of ButTaiwan's Gen fonts (which has since been separated into classic TC and modern TW versions). It aims to satisfy the needs of people who are much more used to the handwritten forms of modern Chinese fonts. The designs aim to match the Adobe-designed JP glyphs rather than use the CN-style designs of Changzhou SinoType wherever possible.

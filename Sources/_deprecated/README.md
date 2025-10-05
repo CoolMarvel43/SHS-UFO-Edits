@@ -1,0 +1,1 @@
+This is the deprecated folder. Any subfolders here will eventually be deleted once everything is sorted out. While almost everything was already sorted, there may be a few more things I need to do before the subfolders will be deleted upon the next update.

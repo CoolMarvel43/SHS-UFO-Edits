@@ -1,0 +1,334 @@
+{
+.appVersion = "3343";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+customParameters = (
+{
+name = vendorID;
+value = ADBO;
+},
+{
+name = panose;
+value = (
+2,
+11,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = unicodeRanges;
+value = (
+59
+);
+},
+{
+name = codePageRanges;
+value = (
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = ROS;
+value = "Adobe-Identity-0";
+},
+{
+name = glyphOrder;
+value = (
+);
+}
+);
+date = "2023-07-28 17:35:57 +0000";
+familyName = "WIPSHDC-Feet-Fix-Sans";
+fontMaster = (
+{
+axesValues = (
+0
+);
+customParameters = (
+{
+name = typoAscender;
+value = 880;
+},
+{
+name = typoDescender;
+value = -120;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1160;
+},
+{
+name = winDescent;
+value = 288;
+},
+{
+name = hheaAscender;
+value = 1160;
+},
+{
+name = hheaDescender;
+value = -288;
+},
+{
+name = strikeoutPosition;
+value = 325;
+},
+{
+name = strikeoutSize;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -150;
+}
+);
+iconName = Light;
+id = m01;
+metricValues = (
+{
+pos = 880;
+},
+{
+pos = 733;
+},
+{
+pos = 543;
+},
+{
+over = -13;
+},
+{
+pos = -120;
+},
+{
+}
+);
+name = ExtraLight;
+},
+{
+axesValues = (
+1000
+);
+customParameters = (
+{
+name = typoAscender;
+value = 880;
+},
+{
+name = typoDescender;
+value = -120;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1160;
+},
+{
+name = winDescent;
+value = 288;
+},
+{
+name = hheaAscender;
+value = 1160;
+},
+{
+name = hheaDescender;
+value = -288;
+},
+{
+name = strikeoutPosition;
+value = 325;
+},
+{
+name = strikeoutSize;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -150;
+}
+);
+iconName = Bold;
+id = "94DDBC6A-1627-4027-9125-871D02041BCD";
+metricValues = (
+{
+pos = 880;
+},
+{
+pos = 733;
+},
+{
+pos = 543;
+},
+{
+over = -14;
+},
+{
+pos = -120;
+},
+{
+}
+);
+name = Heavy;
+}
+);
+instances = (
+{
+axesValues = (
+0
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = ExtraLight;
+weightClass = 200;
+},
+{
+axesValues = (
+160
+);
+instanceInterpolations = {
+"94DDBC6A-1627-4027-9125-871D02041BCD" = 0.16;
+m01 = 0.84;
+};
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+320
+);
+instanceInterpolations = {
+"94DDBC6A-1627-4027-9125-871D02041BCD" = 0.32;
+m01 = 0.68;
+};
+name = Normal;
+},
+{
+axesValues = (
+390
+);
+instanceInterpolations = {
+"94DDBC6A-1627-4027-9125-871D02041BCD" = 0.39;
+m01 = 0.61;
+};
+name = Regular;
+},
+{
+axesValues = (
+560
+);
+instanceInterpolations = {
+"94DDBC6A-1627-4027-9125-871D02041BCD" = 0.56;
+m01 = 0.44;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+780
+);
+instanceInterpolations = {
+"94DDBC6A-1627-4027-9125-871D02041BCD" = 0.78;
+m01 = 0.22;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+1000
+);
+instanceInterpolations = {
+"94DDBC6A-1627-4027-9125-871D02041BCD" = 1;
+};
+name = Heavy;
+weightClass = 900;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "© 2014-2025 Adobe (http://www.adobe.com/).";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = ENG;
+value = "NOTICE: THIS IS NOT A FULL FONT. IT IS RECOMMENDED TO USE ONLY FOR FONT PRODUCTION PURPOSES.";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ENG;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+versionMajor = 0;
+versionMinor = 1;
+}
