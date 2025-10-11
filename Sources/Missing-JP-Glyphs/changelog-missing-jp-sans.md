@@ -1,5 +1,27 @@
 # Changelog for Missing JP Sans
 
+## 2025-10-12
+
+### Glyphs added
+
+| Glyph name        | Character |
+| ----------------- | --------- |
+| uni5195 | 冕 |
+| uni5197 | 冗 |
+| uni51B0 | 冰 |
+| uni520A | 刊 |
+| uni5211 | 刑 |
+| uni5212 | 划 |
+| uni522E | 刮 |
+| uni524A | 削 |
+| uni5269 | 剩 |
+| uni526F | 副 |
+| uni52D2 | 勒 |
+| uni5347 | 升 |
+| uni535C | 卜 |
+| uni5360 | 占 |
+| uni82C5 | 苅 |
+
 ## 2025-09-22
 
 *This update includes characters that are in the [Educational Basic list in the Glyphs app](https://github.com/3type/glyphs-han) (for which I consider urgently needed characters), characters with the 亻 radical that are found in commonly used Traditional Chinese character lists, and some miscellaneous characters. Most of the sources uploaded in this update are now based on the v2.005 version of Source Han Sans.*

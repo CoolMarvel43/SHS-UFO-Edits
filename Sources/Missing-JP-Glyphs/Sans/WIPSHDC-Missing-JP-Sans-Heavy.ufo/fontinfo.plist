@@ -6,6 +6,8 @@
     <integer>880</integer>
     <key>capHeight</key>
     <integer>733</integer>
+    <key>copyright</key>
+    <string>© 2014-2025 Adobe (http://www.adobe.com/).</string>
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
@@ -13,21 +15,22 @@
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
-    <string>2023/01/09 15:37:48</string>
+    <string>2025/09/22 15:40:44</string>
     <key>openTypeHheaAscender</key>
     <integer>1160</integer>
     <key>openTypeHheaDescender</key>
     <integer>-288</integer>
+    <key>openTypeNameDescription</key>
+    <string>NOTICE: THIS IS NOT A FULL FONT. IT IS RECOMMENDED TO USE ONLY FOR FONT PRODUCTION PURPOSES.</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Heavy</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
-      <integer>1</integer>
-      <integer>2</integer>
-      <integer>17</integer>
-      <integer>29</integer>
-      <integer>30</integer>
     </array>
     <key>openTypeOS2Panose</key>
     <array>
@@ -56,26 +59,7 @@
     <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
-      <integer>0</integer>
-      <integer>1</integer>
-      <integer>7</integer>
-      <integer>29</integer>
-      <integer>36</integer>
-      <integer>42</integer>
-      <integer>43</integer>
-      <integer>44</integer>
-      <integer>45</integer>
-      <integer>48</integer>
-      <integer>49</integer>
-      <integer>50</integer>
-      <integer>54</integer>
-      <integer>55</integer>
-      <integer>57</integer>
       <integer>59</integer>
-      <integer>61</integer>
-      <integer>65</integer>
-      <integer>66</integer>
-      <integer>68</integer>
     </array>
     <key>openTypeOS2VendorID</key>
     <string>ADBO</string>
@@ -87,6 +71,11 @@
     <integer>1160</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>288</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-14</integer>
+      <integer>0</integer>
+    </array>
     <key>postscriptFontName</key>
     <string>WIPSHDC-Missing-JP-Sans-Heavy</string>
     <key>postscriptUnderlinePosition</key>
@@ -100,9 +89,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
-    <key>versionMinor</key>
     <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>3</integer>
     <key>xHeight</key>
     <integer>543</integer>
   </dict>

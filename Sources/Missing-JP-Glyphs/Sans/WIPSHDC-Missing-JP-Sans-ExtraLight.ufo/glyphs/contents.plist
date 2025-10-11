@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
     <key>uni4E07</key>
     <string>uni4E_07.glif</string>
     <key>uni4E08</key>
@@ -98,20 +102,48 @@
     <string>uni5176.glif</string>
     <key>uni517C</key>
     <string>uni517C_.glif</string>
+    <key>uni5195</key>
+    <string>uni5195.glif</string>
+    <key>uni5197</key>
+    <string>uni5197.glif</string>
+    <key>uni51B0</key>
+    <string>uni51B_0.glif</string>
     <key>uni51E1</key>
     <string>uni51E_1.glif</string>
     <key>uni51E6</key>
     <string>uni51E_6.glif</string>
     <key>uni5208</key>
     <string>uni5208.glif</string>
+    <key>uni520A</key>
+    <string>uni520A_.glif</string>
+    <key>uni5211</key>
+    <string>uni5211.glif</string>
+    <key>uni5212</key>
+    <string>uni5212.glif</string>
     <key>uni522B</key>
     <string>uni522B_.glif</string>
+    <key>uni522E</key>
+    <string>uni522E_.glif</string>
     <key>uni5236</key>
     <string>uni5236.glif</string>
+    <key>uni524A</key>
+    <string>uni524A_.glif</string>
     <key>uni524D</key>
     <string>uni524D_.glif</string>
+    <key>uni5269</key>
+    <string>uni5269.glif</string>
+    <key>uni526F</key>
+    <string>uni526F_.glif</string>
+    <key>uni52D2</key>
+    <string>uni52D_2.glif</string>
+    <key>uni5347</key>
+    <string>uni5347.glif</string>
     <key>uni5357</key>
     <string>uni5357.glif</string>
+    <key>uni535C</key>
+    <string>uni535C_.glif</string>
+    <key>uni5360</key>
+    <string>uni5360.glif</string>
     <key>uni53CB</key>
     <string>uni53C_B_.glif</string>
     <key>uni53CC</key>
@@ -238,6 +270,8 @@
     <string>uni8033.glif</string>
     <key>uni820C</key>
     <string>uni820C_.glif</string>
+    <key>uni82C5</key>
+    <string>uni82C_5.glif</string>
     <key>uni8349</key>
     <string>uni8349.glif</string>
     <key>uni8DD1</key>

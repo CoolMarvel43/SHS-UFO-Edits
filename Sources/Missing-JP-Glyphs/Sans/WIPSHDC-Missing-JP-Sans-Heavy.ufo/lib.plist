@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3343</string>
+    <string>3434</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -90,13 +90,27 @@
       <string>uni514B</string>
       <string>uni5176</string>
       <string>uni517C</string>
+      <string>uni5195</string>
+      <string>uni5197</string>
+      <string>uni51B0</string>
       <string>uni51E1</string>
       <string>uni51E6</string>
       <string>uni5208</string>
+      <string>uni520A</string>
+      <string>uni5211</string>
+      <string>uni5212</string>
       <string>uni522B</string>
+      <string>uni522E</string>
       <string>uni5236</string>
+      <string>uni524A</string>
       <string>uni524D</string>
+      <string>uni5269</string>
+      <string>uni526F</string>
+      <string>uni52D2</string>
+      <string>uni5347</string>
       <string>uni5357</string>
+      <string>uni535C</string>
+      <string>uni5360</string>
       <string>uni53CB</string>
       <string>uni53CC</string>
       <string>uni5403</string>
@@ -160,6 +174,7 @@
       <string>uni8010</string>
       <string>uni8033</string>
       <string>uni820C</string>
+      <string>uni82C5</string>
       <string>uni8349</string>
       <string>uni8DD1</string>
       <string>uni8DF3</string>
@@ -174,6 +189,8 @@
       <string>uni9752</string>
       <string>uni9762</string>
       <string>uni9ED1</string>
+      <string>space</string>
+      <string>.notdef</string>
     </array>
   </dict>
 </plist>
