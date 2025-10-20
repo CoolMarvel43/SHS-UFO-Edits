@@ -1,5 +1,60 @@
 # Changelog for Missing JP Sans
 
+## 2025-10-21
+
+*This update mostly includes characters with the 口 radical that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han) and some extras.*
+
+### Glyphs added
+
+| Glyph name | Character |
+| ---------- | --------- |
+| uni53D4    | 叔         |
+| uni53D7    | 受         |
+| uni53E5    | 句         |
+| uni53EE    | 叮         |
+| uni53F8    | 司         |
+| uni5401    | 吁         |
+| uni5404    | 各         |
+| uni540A    | 吊         |
+| uni5410    | 吐         |
+| uni5426    | 否         |
+| uni543B    | 吻         |
+| uni543E    | 吾         |
+| uni5446    | 呆         |
+| uni544A    | 告         |
+| uni5462    | 呢         |
+| uni5473    | 味         |
+| uni5475    | 呵         |
+| uni547C    | 呼         |
+| uni5495    | 咕         |
+| uni54B1    | 咱         |
+| uni54C1    | 品         |
+| uni54C4    | 哄         |
+| uni54C7    | 哇         |
+| uni54CE    | 哎         |
+| uni54E6    | 哦         |
+| uni54E9    | 哩         |
+| uni5531    | 唱         |
+| uni554A    | 啊         |
+| uni5587    | 喇         |
+| uni5589    | 喉         |
+| uni558A    | 喊         |
+| uni5598    | 喘         |
+| uni55C5    | 嗅         |
+| uni55D3    | 嗓         |
+| uni563B    | 嘻         |
+| uni563F    | 嘿         |
+| uni566A    | 噪         |
+| uni60E0    | 惠         |
+| uni672D    | 札         |
+| uni9996    | 首         |
+
+### Glyphs modified
+| Glyph name        | Character | Reason |
+| ----------------- | --------- | ------ |
+| uni4F73 | 佳 | Slight proportion adjustment on the 圭 component in Heavy |
+| uni5021 | 倡 | Proportion adjustment on the 昌 component in Heavy |
+
 ## 2025-10-12
 
 ### Glyphs added

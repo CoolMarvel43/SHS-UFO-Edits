@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni543E" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="543E"/>
+  <note>
+cid12058
+</note>
+  <outline>
+    <contour>
+      <point x="961" y="329" type="line"/>
+      <point x="961" y="453" type="line"/>
+      <point x="42" y="453" type="line"/>
+      <point x="42" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="894" y="698" type="line"/>
+      <point x="894" y="821" type="line"/>
+      <point x="110" y="821" type="line"/>
+      <point x="110" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="752" y="-62" type="line"/>
+      <point x="752" y="62" type="line"/>
+      <point x="254" y="62" type="line"/>
+      <point x="254" y="-62" type="line"/>
+    </contour>
+    <contour>
+      <point x="838" y="-94" type="line"/>
+      <point x="838" y="274" type="line"/>
+      <point x="169" y="274" type="line"/>
+      <point x="169" y="-94" type="line"/>
+      <point x="312" y="-94" type="line"/>
+      <point x="312" y="152" type="line"/>
+      <point x="688" y="152" type="line"/>
+      <point x="688" y="-94" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="773" type="curve"/>
+      <point x="349" y="773" type="line"/>
+      <point x="331" y="652"/>
+      <point x="299" y="504"/>
+      <point x="271" y="405" type="curve"/>
+      <point x="426" y="405" type="line"/>
+      <point x="450" y="500"/>
+      <point x="478" y="648"/>
+    </contour>
+    <contour>
+      <point x="788" y="382" type="line"/>
+      <point x="788" y="639" type="line"/>
+      <point x="159" y="639" type="line"/>
+      <point x="159" y="521" type="line"/>
+      <point x="639" y="521" type="line"/>
+      <point x="639" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-20 17:37:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>
