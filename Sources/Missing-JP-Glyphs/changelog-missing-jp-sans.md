@@ -1,6 +1,6 @@
 # Changelog for Missing JP Sans
 
-## 2025-10-21
+## 2025-10-21 *(v0.004)*
 
 *This update mostly includes characters with the 口 radical that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han) and some extras.*
 
@@ -55,7 +55,7 @@
 | uni4F73 | 佳 | Slight proportion adjustment on the 圭 component in Heavy |
 | uni5021 | 倡 | Proportion adjustment on the 昌 component in Heavy |
 
-## 2025-10-12
+## 2025-10-12 *(v0.003)*
 
 ### Glyphs added
 
@@ -77,7 +77,7 @@
 | uni5360 | 占 |
 | uni82C5 | 苅 |
 
-## 2025-09-22
+## 2025-09-22 *(v0.002)*
 
 *This update includes characters that are in the [Educational Basic list in the Glyphs app](https://github.com/3type/glyphs-han) (for which I consider urgently needed characters), characters with the 亻 radical that are found in commonly used Traditional Chinese character lists, and some miscellaneous characters. Most of the sources uploaded in this update are now based on the v2.005 version of Source Han Sans.*
 
@@ -182,7 +182,7 @@
 | ----------------- | --------- | ------ |
 | uni553E | 唾 | Source Han Sans v2.005 now includes uni553E-JP, so this is made redundant |
 
-## 2024-02-24
+## 2024-02-24 *(consider this v0.001)*
 
 ### Glyphs added
 | Glyph name        | Character | 
