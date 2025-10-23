@@ -35,7 +35,6 @@ A visual representation of the glyph edits is available in PDF format, in ExtraL
 - [Sans](Sans/Preview/)
 - [Serif](Serif/Preview/)
 
-Some glyphs are colour coded (which are also indicated in the source files). For more information, see the glyph list. But roughly:
+Some glyphs are colour coded (which are also indicated in the source files). For more information, see the glyph list, under the Colour Tag column. But roughly:
 
-<span style="color:magenta">**Magenta**</span> - Borrowed glyphs from other Source Han forks without any modifications whatsoever. There is no guarantee that any future updates from them will be synced to this repository.
-
+**Magenta** 🟣 - Borrowed glyphs from other Source Han forks without any modifications whatsoever. There is no guarantee that any future updates from them will be synced to this repository. If a glyph is modified in the future, this tag will be removed.

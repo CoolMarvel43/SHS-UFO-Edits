@@ -30,8 +30,7 @@ A visual representation of the glyph edits is available in PDF format, in ExtraL
 - [Sans](Sans/Preview/)
 - [Serif](Serif/Preview/)
 
-Some glyphs are colour coded (which are also indicated in the source files). For more information, see the glyph list. But roughly:
+Some glyphs are colour coded (which are also indicated in the source files). For more information, see the glyph list, under the Colour Tag column. But roughly:
 
-<span style="color:red">**Red**</span> - Unsuitable for any Chinese locales, whether classic or modern forms. Those forms were originally made for the Japanese locale, for their own use (if they use the full 65535-glyph OTF version and pick any kanji outside the Adobe-Japan1-7 character set).
-<span style="color:magenta">**Magenta**</span> - Borrowed glyphs from other Source Han forks without any modifications whatsoever. There is no guarantee that any future updates from them will be synced to this repository.
-
+**Red** 🔴 - Unsuitable for any Chinese locales, whether classic or modern forms. Those forms were originally made for the Japanese locale, for their own use (if they use the full 65535-glyph OTF version and pick any kanji outside the Adobe-Japan1-7 character set), because basically their sources of the extended kanji can differ from the Chinese sources and may be inconsistent in terms of glyph shapes.
+**Magenta** 🟣 - Borrowed glyphs from other Source Han forks without any modifications whatsoever. There is no guarantee that any future updates from them will be synced to this repository. If a glyph is modified in the future, this tag will be removed.
