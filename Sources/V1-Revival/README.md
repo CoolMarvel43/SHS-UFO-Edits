@@ -10,7 +10,7 @@ The vast majority of the restored JP sources can be used for Chinese locales (an
 
 For Sans, the sources cover GB 2312, Tongyong, iiCore, Big5 (both L1 and L2), HKSCS and Suppchara.
 
-The restored sources may not be 100% accurate to the original v1 JP source, and some of the characters are also improved upon by fixing outline bugs or improving proportions, as noted in the glyph lists.
+The restored sources may not be 100% accurate to the original v1 JP source, and some of the characters are also improved upon by fixing outline bugs or improving proportions, as noted in the glyph lists and changelogs.
 
 For Serif, the v1 JP glyphs covering Big5 Level 1 and the jf7000 character set (base only) will be restored and released in the future. For now only a tiny amount of glyphs are available.
 
@@ -18,6 +18,10 @@ For Serif, the v1 JP glyphs covering Big5 Level 1 and the jf7000 character set (
 
 - [Sans](glyphlist-v1-revival-sans.md)
 - [Serif](glyphlist-v1-revival-serif.md)
+
+## Changelog
+
+- [Sans](changelog-v1-revival-sans.md)
 
 ## PDF Preview
 

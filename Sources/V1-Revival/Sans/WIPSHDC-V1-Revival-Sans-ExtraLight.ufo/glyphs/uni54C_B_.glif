@@ -41,22 +41,6 @@ cid12237
       <point x="886" y="618" type="line"/>
     </contour>
     <contour>
-      <point x="266" y="693" type="line"/>
-      <point x="100" y="693" type="line"/>
-      <point x="100" y="664" type="line"/>
-      <point x="236" y="664" type="line"/>
-      <point x="236" y="219" type="line"/>
-      <point x="100" y="219" type="line"/>
-      <point x="100" y="189" type="line"/>
-      <point x="266" y="189" type="line"/>
-    </contour>
-    <contour>
-      <point x="114" y="693" type="line"/>
-      <point x="84" y="693" type="line"/>
-      <point x="84" y="106" type="line"/>
-      <point x="114" y="106" type="line"/>
-    </contour>
-    <contour>
       <point x="529" y="531" type="line"/>
       <point x="290" y="531" type="line"/>
       <point x="290" y="502" type="line"/>
@@ -106,11 +90,27 @@ cid12237
       <point x="602" y="-6"/>
       <point x="602" y="35" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="266" y="720" type="line"/>
+      <point x="98" y="720" type="line"/>
+      <point x="98" y="691" type="line"/>
+      <point x="237" y="691" type="line"/>
+      <point x="237" y="228" type="line"/>
+      <point x="98" y="228" type="line"/>
+      <point x="98" y="198" type="line"/>
+      <point x="266" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="720" type="line"/>
+      <point x="84" y="720" type="line"/>
+      <point x="84" y="112" type="line"/>
+      <point x="113" y="112" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-23 09:36:58 +0000</string>
     </dict>
   </lib>
 </glyph>

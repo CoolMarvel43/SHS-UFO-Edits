@@ -87,20 +87,26 @@ cid12340
       <point x="719" y="360" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="316" y="694" type="line"/>
-      <point x="99" y="694" type="line"/>
-      <point x="99" y="665" type="line"/>
-      <point x="287" y="665" type="line"/>
-      <point x="287" y="220" type="line"/>
-      <point x="99" y="220" type="line"/>
-      <point x="99" y="191" type="line"/>
-      <point x="316" y="191" type="line"/>
+      <point x="321" y="719" type="line"/>
+      <point x="99" y="719" type="line"/>
+      <point x="99" y="690" type="line"/>
+      <point x="291" y="690" type="line"/>
+      <point x="291" y="245" type="line"/>
+      <point x="99" y="245" type="line"/>
+      <point x="99" y="216" type="line"/>
+      <point x="321" y="216" type="line"/>
     </contour>
     <contour>
-      <point x="114" y="694" type="line"/>
-      <point x="85" y="694" type="line"/>
-      <point x="85" y="104" type="line"/>
-      <point x="114" y="104" type="line"/>
+      <point x="111" y="719" type="line"/>
+      <point x="82" y="719" type="line"/>
+      <point x="82" y="111" type="line"/>
+      <point x="111" y="111" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-23 09:36:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>
