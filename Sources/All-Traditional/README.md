@@ -41,9 +41,9 @@ Several commercial fonts can vary widely in how they look. That is why there wil
 
 For Serif, there will be no decorative axe on 乀 strokes by default, although 八 components will obviously retain the 提捺 (乁) bent stroke.
 
-### Inherited Glyphs
+### Regarding Inherited Glyphs
 
-Regarding Inherited Glyphs, I believe it was created to standardise on the many different old forms throughout Chinese history. This will not be the main scope here as the plan is to recreate the forms seen in mid-20th century newspapers and other media, which may not be deemed correct in the Inherited Glyphs standard. Some glyphs of this standard may be created though, although it will not be of priority.
+I believe it was created to standardise on the many different old forms throughout Chinese history. This will not be the main scope here as the plan is to recreate the forms seen in mid-20th century newspapers and other media, which may not be deemed correct in the Inherited Glyphs standard. Some glyphs of this standard may be created though, although it will not be of priority.
 
 Regardless, many glyphs here can be useful for the project.
 
@@ -71,7 +71,7 @@ Using CN/TW/HK glyphs for modern forms without modifications can work (and can s
 
 Because of this, the CN design by Changzhou Sinotype (and Arphic) and JP design by Adobe (and Iwata) can look quite different in terms of component proportions, counter (中宮) and visual gravity (重心), and even the curvature of some drop strokes (CN favours stiffer strokes like Founder’s Lantinghei, while JP favours curvier strokes).
 
-For example, the radicals (口, 心(忄), 木, 水(氵), 火(灬), etc.) are designed differently between JP and CN glyphs, even if there's no obvious regional difference between the two. The following diagram illustrates the point.
+In the following diagram, the radicals (口, 心(忄), 木, 水(氵), 火(灬), etc.) are designed differently between JP and CN glyphs, even if there's no obvious regional difference between the two.
 
 ![Source Han Sans JP vs CN design](img/SHS_JP_vs_CN.png)
 
@@ -85,9 +85,9 @@ Regarding a potential major update to Source Han Sans in the future, it is possi
 
 ## Glyph coverage
 
-From now on, only characters that are part of commonly used Traditional Chinese character lists (Big5, jf7000, etc.) will be worked on. Any out-of-scope characters that were already created before this policy is written will remain, but no new characters outside of any common Chinese character lists will be created.
+From October 2025, only characters that are part of commonly used Traditional Chinese character lists (Big5, jf7000, GB12345, etc.) will be worked on. Any out-of-scope characters that were already created before this policy is written will remain (and may be modified if necessary), but no new characters outside of any common Chinese/Japanese character lists will be created.
 
-Once that is done, less common characters (like covering all of Big5 and HKSCS) would be next.
+Once the common characters are done, less common characters (like covering all of Big5 and HKSCS) would be next, and perhaps Japanese and Korean character sets.
 
 Should there be a CSV file to define remaps for every Unicode character, any out-of-scope or rare characters would be straightaway remapped to JP/KR/CN/TW/HK forms without modification so as long as the closest form can be found. There is no guarantee that they will have the same glyph quality or have the ideal glyph shape as those of the common characters.
 
@@ -101,11 +101,16 @@ Here are a list of glyph suffixes. Classic will be the default glyph shape, so g
 - uniXXXX<span>.</span>MN/MN1/MN2 - Modern forms, following the above conventions about which type it is. "MN1a" and "MN1b" may be used if there is more than one form of the same type. If there is one form that can be shared between different types, it may only be appended as ".MN".
 - uniXXXX<span>.</span>inherited - Glyph shapes that follow the [Inherited Glyph standard](https://github.com/ichitenfont/inheritedglyphs) and may not appear in mid-20th century prints.
 - uniXXXX<span>.</span>inherited2 - Glyph shapes that follow an alternate and acceptable variant form of Inherited Glyphs.
+- uniXXXX<span>.</span>JP *(will not be worked on)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media. If it is, it would be labelled ".CL1/CL1a/CL1b" instead.
 
 ## List of glyphs available
 
 - [Sans](glyphlist-all-traditional-sans.md)
 - [Serif](glyphlist-all-traditional-serif.md)
+
+## Changelog
+
+- [Sans](changelog-all-traditional-sans.md)
 
 ## PDF Preview
 
