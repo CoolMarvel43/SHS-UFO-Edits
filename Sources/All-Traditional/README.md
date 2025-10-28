@@ -49,7 +49,7 @@ Regardless, many glyphs here can be useful for the project.
 
 ## Regarding using glyphs from other forks
 
-For easy reference, some glyphs from other Source Han forks will now be borrowed without modification. They will be colour-tagged <span style="color:magenta">**pink**</span> for easier identification in the source files. However, there is no guarantee that they will be synced if there are any updates on their end.
+For easy reference, some glyphs from other Source Han forks will now be borrowed without modification. They will be colour-tagged magenta (🟣 for GitHub use) for easier identification in the source files. However, there is no guarantee that they will be synced if there are any updates on their end.
 
 ### Chiukong Gothic
 
@@ -71,9 +71,13 @@ Using CN/TW/HK glyphs for modern forms without modifications can work (and can s
 
 Because of this, the CN design by Changzhou Sinotype (and Arphic) and JP design by Adobe (and Iwata) can look quite different in terms of component proportions, counter (中宮) and visual gravity (重心), and even the curvature of some drop strokes (CN favours stiffer strokes like Founder’s Lantinghei, while JP favours curvier strokes).
 
-The plan is to create glyphs that could have been what Adobe/Iwata would have designed if they were responsible for creating Traditional Chinese glyphs similar to JP forms.
+For example, the radicals (口, 心(忄), 木, 水(氵), 火(灬), etc.) are designed differently between JP and CN glyphs, even if there's no obvious regional difference between the two. The following diagram illustrates the point.
 
-However, that is to say that not one type foundry is better than the other. Every one of them makes mistakes. Hence why I am also planning to improve on the glyph shapes if I find any design issues with JP glyphs.
+![Source Han Sans JP vs CN design](img/SHS_JP_vs_CN.png)
+
+This repository (along with the [Missing JP glyphs](../Missing-JP-Glyphs/README.md) repository) attempts to fix and unify the design so it looks like a single type foundry has done all the design work. In addition, the plan is to create glyphs that could have been what Adobe/Iwata would have designed if they were responsible for creating Traditional Chinese glyphs similar to JP forms.
+
+However, that is to say that not one type foundry is better than the other. Every one of them (even Adobe's own foundry) makes mistakes. Hence why I am also planning to improve on the glyph shapes if I find any design issues with JP glyphs.
 
 ## Future updates in Source Han Sans
 

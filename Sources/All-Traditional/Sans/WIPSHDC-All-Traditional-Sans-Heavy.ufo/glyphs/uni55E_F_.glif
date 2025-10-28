@@ -7,22 +7,6 @@ cid12711
 </note>
   <outline>
     <contour>
-      <point x="326" y="738" type="line"/>
-      <point x="125" y="738" type="line"/>
-      <point x="125" y="605" type="line"/>
-      <point x="211" y="605" type="line"/>
-      <point x="211" y="298" type="line"/>
-      <point x="125" y="298" type="line"/>
-      <point x="125" y="165" type="line"/>
-      <point x="326" y="165" type="line"/>
-    </contour>
-    <contour>
-      <point x="171" y="738" type="line"/>
-      <point x="56" y="738" type="line"/>
-      <point x="56" y="80" type="line"/>
-      <point x="171" y="80" type="line"/>
-    </contour>
-    <contour>
       <point x="471" y="404" type="line"/>
       <point x="471" y="713" type="line"/>
       <point x="807" y="713" type="line"/>
@@ -45,10 +29,10 @@ cid12711
       <point x="726" y="550"/>
     </contour>
     <contour>
-      <point x="799" y="662" type="line"/>
-      <point x="479" y="662" type="line"/>
-      <point x="479" y="559" type="line"/>
-      <point x="799" y="559" type="line"/>
+      <point x="794" y="662" type="line"/>
+      <point x="484" y="662" type="line"/>
+      <point x="484" y="559" type="line"/>
+      <point x="794" y="559" type="line"/>
     </contour>
     <contour>
       <point x="706" y="705" type="curve"/>
@@ -118,5 +102,27 @@ cid12711
       <point x="973" y="65"/>
       <point x="924" y="153"/>
     </contour>
+    <contour>
+      <point x="322" y="158" type="line"/>
+      <point x="322" y="777" type="line"/>
+      <point x="131" y="777" type="line"/>
+      <point x="131" y="648" type="line"/>
+      <point x="206" y="648" type="line"/>
+      <point x="206" y="287" type="line"/>
+      <point x="131" y="287" type="line"/>
+      <point x="131" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="88" type="line"/>
+      <point x="167" y="777" type="line"/>
+      <point x="53" y="777" type="line"/>
+      <point x="53" y="88" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-28 08:03:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>
