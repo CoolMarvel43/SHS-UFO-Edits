@@ -1,9 +1,9 @@
 # Source Han Sans/Serif UFO Edits
 
 ## About
-This is a quick-and-dirty repository to store my edits to [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) and [Serif](https://github.com/adobe-fonts/source-han-serif) (思源黑體/思源宋體). For now, they are only provided in UFO and glyphspackage formats, the former for which can be read by most font editors and the latter specifically for [Glyphs for Mac](https://glyphsapp.com/). The sources are overlapped, which is suitable for variable fonts, and available in two masters, ExtraLight and Heavy.
+This is a quick-and-dirty repository to store my edits to [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) and [Serif](https://github.com/adobe-fonts/source-han-serif) (思源黑體/思源宋體). They are provided in UFO and glyphspackage formats, the former for which can be read by most font editors and the latter specifically for [Glyphs for Mac](https://glyphsapp.com/). The sources are overlapped, which is suitable for variable fonts, and available in two masters, ExtraLight and Heavy.
 
-For convenience purposes, the OTF and TTF file formats will be provided, with all weights provided, overlaps removed and no hinting, but will only contain modified glyphs. They are not full fonts so they are unsuitable as to be used as standalone fonts. Feel free to integrate them into your forks as you please.
+In addition, for convenience purposes, the OTF and TTF file formats will be provided, with all weights provided, overlaps removed and no hinting, but will only contain modified glyphs. They are not full fonts so they are unsuitable as to be used as standalone fonts. Feel free to integrate them into your forks as you please. You will need to use a font editor to access the unencoded glyphs (those appended with a dot suffix like ".MN", ".CL1", ".inherited", etc.).
 
 Unfortunately to do so, the sources will now include two additional characters which I do not include in their glyph lists: .notdef and space (taken straight from Source Han Sans/Serif). This is required for Adobe-Identity-0 to work correctly when exporting OTF and TTF file formats, so please ignore these two characters if you work with the source files.
 
@@ -23,9 +23,9 @@ Regarding the versions, since 2025, my edits are based on Source Han Sans v2.005
 
 The sources will be updated with new glyphs and adjustments periodically. They will be noted in their respective changelogs.
 
-## Regarding the ridiculous names
+## Regarding the font name
 
-The naming of the source files will temporarily be called "WIPSHDC" (an unoriginal acronym I have to make up), followed by the category (like "Kana" or "Old-Traditional" as mentioned above), and then either "Sans" or "Serif" as the suffix. A better name will be decided in the near future.
+The naming of the source files will temporarily be called "WIPSHDC" (an unoriginal acronym I have to make up), followed by the category (like "Kana" or "All-Traditional" as mentioned above), and then either "Sans" or "Serif" as the suffix. A better name will be decided in the near future.
 
 ## Quick weight setup
 
@@ -58,6 +58,10 @@ Heavy | 1000
 ## Licence
 
 As always, the sources are licensed under the SIL Open Font License.
+
+## Issues
+
+Any design problems or suggestions, or any ideas to improve the presentation or organisation of this repository, you can do so [here](https://github.com/CoolMarvel43/SHS-UFO-Edits/issues).
 
 ## Special Thanks to:
 * ChiuMing-Neko for the [ChiuKong Gothic project (秋空黑體)](https://github.com/ChiuMing-Neko/ChiuKongGothic).
