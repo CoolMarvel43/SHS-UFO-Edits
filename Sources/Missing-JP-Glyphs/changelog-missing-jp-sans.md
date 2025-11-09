@@ -1,5 +1,79 @@
 # Changelog for Missing JP Sans
 
+## 2025-11-09 *(v0.005)*
+
+*This update several characters, mostly from 土 to 戈 (which also includes 尸, 山 (radical placed on top), 彳, 心 (忄)) that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han) and some extras, like characters that covers the 酉 component.*
+
+### Glyphs added
+
+| Glyph name | Character |
+| ---------- | --------- |
+| uni4E8B | 事 |
+| uni4F53 | 体 |
+| uni51A0 | 冠 |
+| uni5398 | 厘 |
+| uni5740 | 址 |
+| uni5761 | 坡 |
+| uni578B | 型 |
+| uni57CB | 埋 |
+| uni57CE | 城 |
+| uni57DF | 域 |
+| uni5802 | 堂 |
+| uni5821 | 堡 |
+| uni5824 | 堤 |
+| uni5893 | 墓 |
+| uni58FD | 壽 |
+| uni590F | 夏 |
+| uni5967 | 奧 |
+| uni5C01 | 封 |
+| uni5C0A | 尊 |
+| uni5C3C | 尼 |
+| uni5C3E | 尾 |
+| uni5C3F | 尿 |
+| uni5C65 | 履 |
+| uni5CA9 | 岩 |
+| uni5CB8 | 岸 |
+| uni5D29 | 崩 |
+| uni5DDE | 州 |
+| uni5DE6 | 左 |
+| uni5DF4 | 巴 |
+| uni5E06 | 帆 |
+| uni5E0C | 希 |
+| uni5E15 | 帕 |
+| uni5E38 | 常 |
+| uni5E45 | 幅 |
+| uni5F04 | 弄 |
+| uni5F62 | 形 |
+| uni5F69 | 彩 |
+| uni5F7C | 彼 |
+| uni5F81 | 征 |
+| uni5F85 | 待 |
+| uni5F92 | 徒 |
+| uni5F97 | 得 |
+| uni6015 | 怕 |
+| uni6027 | 性 |
+| uni602A | 怪 |
+| uni6052 | 恒 |
+| uni606D | 恭 |
+| uni60D1 | 惑 |
+| uni60DC | 惜 |
+| uni60F9 | 惹 |
+| uni611A | 愚 |
+| uni6155 | 慕 |
+| uni61A4 | 憤 |
+| uni61C2 | 懂 |
+| uni6208 | 戈 |
+| uni6216 | 或 |
+| uni6234 | 戴 |
+| uni9152 | 酒 |
+| uni9177 | 酷 |
+
+### Glyphs modified
+
+| Glyph name | Character | Reason |
+| ---------- | --------- | ------ |
+| uni6709    | 有        | The shapes of the Heavy weight is now based on uni5187-CN 冇 which in turn could possibly be based on the unreleased uni6709-JP glyph. |
+
 ## 2025-10-21 *(v0.004)*
 
 *This update mostly includes characters with the 口 radical that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han) and some extras.*

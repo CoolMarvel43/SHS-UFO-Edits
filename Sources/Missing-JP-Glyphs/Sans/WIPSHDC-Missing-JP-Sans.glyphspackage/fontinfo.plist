@@ -1,5 +1,5 @@
 {
-.appVersion = "3434";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
@@ -53,7 +53,7 @@ value = (
 );
 }
 );
-date = "2025-10-21 03:56:39 +0000";
+date = "2025-11-08 19:04:54 +0000";
 familyName = "WIPSHDC-Missing-JP-Sans";
 fontMaster = (
 {
@@ -330,5 +330,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 4;
+versionMinor = 5;
 }
