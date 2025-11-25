@@ -155,10 +155,4 @@ cid14081
       <point x="499" y="84" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-11-25 11:24:07 +0000</string>
-    </dict>
-  </lib>
 </glyph>
