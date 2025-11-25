@@ -7,34 +7,34 @@ cid40125
 </note>
   <outline>
     <contour>
-      <point x="936" y="689" type="line"/>
-      <point x="341" y="689" type="line"/>
-      <point x="341" y="549" type="line"/>
-      <point x="936" y="549" type="line"/>
+      <point x="936" y="699" type="line"/>
+      <point x="351" y="699" type="line"/>
+      <point x="351" y="559" type="line"/>
+      <point x="936" y="559" type="line"/>
     </contour>
     <contour>
-      <point x="601" y="825" type="line"/>
-      <point x="457" y="825" type="line"/>
+      <point x="601" y="830" type="line"/>
+      <point x="457" y="830" type="line"/>
       <point x="457" y="515" type="line" smooth="yes"/>
-      <point x="457" y="399"/>
-      <point x="449" y="259"/>
-      <point x="344" y="166" type="curve"/>
-      <point x="374" y="147"/>
-      <point x="432" y="92"/>
-      <point x="453" y="64" type="curve"/>
-      <point x="579" y="173"/>
-      <point x="601" y="369"/>
+      <point x="457" y="389"/>
+      <point x="450" y="269"/>
+      <point x="327" y="186" type="curve"/>
+      <point x="356" y="165"/>
+      <point x="411" y="107"/>
+      <point x="430" y="78" type="curve"/>
+      <point x="580" y="190"/>
+      <point x="601" y="359"/>
       <point x="601" y="513" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="957" y="432" type="line"/>
-      <point x="331" y="432" type="line"/>
-      <point x="331" y="293" type="line"/>
-      <point x="957" y="293" type="line"/>
+      <point x="957" y="452" type="line"/>
+      <point x="331" y="452" type="line"/>
+      <point x="331" y="313" type="line"/>
+      <point x="957" y="313" type="line"/>
     </contour>
     <contour>
-      <point x="830" y="823" type="line"/>
-      <point x="685" y="823" type="line"/>
+      <point x="830" y="830" type="line"/>
+      <point x="685" y="830" type="line"/>
       <point x="685" y="85" type="line"/>
       <point x="830" y="85" type="line"/>
     </contour>
@@ -94,8 +94,8 @@ cid40125
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-11-25 11:24:12 +0000</string>
     </dict>
   </lib>
 </glyph>

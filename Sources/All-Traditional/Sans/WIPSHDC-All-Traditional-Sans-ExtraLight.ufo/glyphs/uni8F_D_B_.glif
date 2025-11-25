@@ -15,21 +15,21 @@ cid40125
     <contour>
       <point x="525" y="815" type="line"/>
       <point x="496" y="815" type="line"/>
-      <point x="496" y="440" type="line" smooth="yes"/>
-      <point x="496" y="324"/>
-      <point x="480" y="194"/>
-      <point x="350" y="103" type="curve"/>
-      <point x="357" y="98"/>
-      <point x="367" y="87"/>
-      <point x="370" y="81" type="curve"/>
+      <point x="496" y="460" type="line" smooth="yes"/>
+      <point x="496" y="325"/>
+      <point x="478" y="192"/>
+      <point x="320" y="93" type="curve"/>
+      <point x="327" y="88"/>
+      <point x="337" y="77"/>
+      <point x="340" y="71" type="curve"/>
       <point x="506" y="176"/>
       <point x="525" y="319"/>
-      <point x="525" y="440" type="curve" smooth="yes"/>
+      <point x="525" y="460" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="935" y="391" type="line"/>
-      <point x="334" y="391" type="line"/>
-      <point x="334" y="362" type="line"/>
+      <point x="314" y="391" type="line"/>
+      <point x="314" y="362" type="line"/>
       <point x="935" y="362" type="line"/>
     </contour>
     <contour>
@@ -94,8 +94,8 @@ cid40125
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-11-25 11:24:12 +0000</string>
     </dict>
   </lib>
 </glyph>

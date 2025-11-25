@@ -80,10 +80,10 @@ cid35015
       <point x="683" y="640" type="line"/>
     </contour>
     <contour>
-      <point x="479" y="732" type="line"/>
+      <point x="478" y="732" type="line"/>
       <point x="67" y="732" type="line"/>
       <point x="67" y="703" type="line"/>
-      <point x="479" y="703" type="line"/>
+      <point x="478" y="703" type="line"/>
     </contour>
     <contour>
       <point x="897" y="577" type="line"/>
@@ -126,9 +126,15 @@ cid35015
     </contour>
     <contour>
       <point x="936" y="732" type="line"/>
-      <point x="516" y="732" type="line"/>
-      <point x="516" y="703" type="line"/>
+      <point x="518" y="732" type="line"/>
+      <point x="518" y="703" type="line"/>
       <point x="936" y="703" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-11-25 11:24:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

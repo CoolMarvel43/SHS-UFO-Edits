@@ -113,10 +113,4 @@ cid11222
       <point x="457" y="528" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-10-28 08:03:11 +0000</string>
-    </dict>
-  </lib>
 </glyph>

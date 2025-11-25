@@ -110,34 +110,34 @@ cid23003
       <point x="589" y="465" type="line"/>
     </contour>
     <contour>
-      <point x="906" y="760" type="line"/>
-      <point x="234" y="760" type="line"/>
-      <point x="234" y="730" type="line"/>
-      <point x="906" y="730" type="line"/>
+      <point x="926" y="760" type="line"/>
+      <point x="239" y="760" type="line"/>
+      <point x="239" y="730" type="line"/>
+      <point x="926" y="730" type="line"/>
     </contour>
     <contour>
-      <point x="844" y="663" type="line"/>
-      <point x="234" y="663" type="line"/>
-      <point x="234" y="633" type="line"/>
-      <point x="844" y="633" type="line"/>
+      <point x="849" y="663" type="line"/>
+      <point x="254" y="663" type="line"/>
+      <point x="254" y="633" type="line"/>
+      <point x="849" y="633" type="line"/>
     </contour>
     <contour>
       <point x="759" y="560" type="line"/>
-      <point x="128" y="560" type="line"/>
-      <point x="128" y="530" type="line"/>
+      <point x="138" y="560" type="line"/>
+      <point x="138" y="530" type="line"/>
       <point x="759" y="530" type="line"/>
     </contour>
     <contour>
-      <point x="302" y="830" type="curve"/>
-      <point x="274" y="838" type="line"/>
-      <point x="221" y="731"/>
-      <point x="133" y="629"/>
-      <point x="42" y="563" type="curve"/>
-      <point x="50" y="558"/>
-      <point x="63" y="548"/>
-      <point x="68" y="543" type="curve"/>
-      <point x="156" y="613"/>
-      <point x="245" y="718"/>
+      <point x="302" y="825" type="curve"/>
+      <point x="274" y="833" type="line"/>
+      <point x="222" y="729"/>
+      <point x="136" y="624"/>
+      <point x="50" y="561" type="curve"/>
+      <point x="58" y="556"/>
+      <point x="71" y="546"/>
+      <point x="76" y="541" type="curve"/>
+      <point x="160" y="608"/>
+      <point x="247" y="717"/>
     </contour>
     <contour>
       <point x="774" y="560" type="curve"/>
@@ -160,8 +160,8 @@ cid23003
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-11-25 11:24:12 +0000</string>
     </dict>
   </lib>
 </glyph>

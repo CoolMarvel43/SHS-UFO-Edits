@@ -14,8 +14,8 @@ cid41635
     </contour>
     <contour>
       <point x="974" y="577" type="line"/>
-      <point x="432" y="577" type="line"/>
-      <point x="432" y="451" type="line"/>
+      <point x="412" y="577" type="line"/>
+      <point x="412" y="451" type="line"/>
       <point x="974" y="451" type="line"/>
     </contour>
     <contour>
@@ -25,10 +25,10 @@ cid41635
       <point x="834" y="131" type="line"/>
     </contour>
     <contour>
-      <point x="931" y="406" type="line"/>
+      <point x="941" y="406" type="line"/>
       <point x="629" y="406" type="line"/>
       <point x="629" y="292" type="line"/>
-      <point x="931" y="292" type="line"/>
+      <point x="941" y="292" type="line"/>
     </contour>
     <contour>
       <point x="690" y="847" type="line"/>
@@ -75,16 +75,16 @@ cid41635
       <point x="921" y="248"/>
     </contour>
     <contour>
-      <point x="956" y="791" type="curve"/>
-      <point x="841" y="832" type="line"/>
-      <point x="750" y="600"/>
-      <point x="581" y="418"/>
-      <point x="374" y="317" type="curve"/>
-      <point x="397" y="290"/>
-      <point x="435" y="231"/>
-      <point x="450" y="201" type="curve"/>
-      <point x="666" y="324"/>
-      <point x="849" y="530"/>
+      <point x="962" y="799" type="curve"/>
+      <point x="845" y="834" type="line"/>
+      <point x="758" y="612"/>
+      <point x="580" y="415"/>
+      <point x="382" y="322" type="curve"/>
+      <point x="405" y="295"/>
+      <point x="443" y="236"/>
+      <point x="458" y="206" type="curve"/>
+      <point x="667" y="321"/>
+      <point x="861" y="549"/>
     </contour>
     <contour>
       <point x="376" y="605" type="line"/>
@@ -164,8 +164,8 @@ cid41635
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-11-25 11:24:12 +0000</string>
     </dict>
   </lib>
 </glyph>

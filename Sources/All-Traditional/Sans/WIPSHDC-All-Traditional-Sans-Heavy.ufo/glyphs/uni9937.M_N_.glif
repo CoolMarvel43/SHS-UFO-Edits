@@ -8,8 +8,8 @@ cid44524
     <contour>
       <point x="975" y="-69" type="line"/>
       <point x="975" y="47" type="line"/>
-      <point x="388" y="47" type="line"/>
-      <point x="388" y="-69" type="line"/>
+      <point x="398" y="47" type="line"/>
+      <point x="398" y="-69" type="line"/>
     </contour>
     <contour>
       <point x="965" y="631" type="line"/>
@@ -144,7 +144,7 @@ cid44524
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-10-28 13:03:56 +0000</string>
+      <string>2025-11-25 11:24:12 +0000</string>
     </dict>
   </lib>
 </glyph>
