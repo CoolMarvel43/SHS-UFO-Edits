@@ -1,8 +1,84 @@
 # Changelog for Missing JP Sans
 
+## 2025-12-12 *(v0.006)*
+
+*This update includes characters that belong to the 手 and 日 radicals, that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han). In addition, there are some adjustments to existing glyphs.*
+
+### Glyphs added
+
+| Glyph name | Character |
+| ---------- | --------- |
+| uni624E | 扎 |
+| uni6263 | 扣 |
+| uni626F | 扯 |
+| uni6276 | 扶 |
+| uni6280 | 技 |
+| uni6292 | 抒 |
+| uni6296 | 抖 |
+| uni62AB | 披 |
+| uni62BD | 抽 |
+| uni62CD | 拍 |
+| uni62D3 | 拓 |
+| uni62D6 | 拖 |
+| uni62DB | 招 |
+| uni62EC | 括 |
+| uni62FC | 拼 |
+| uni6301 | 持 |
+| uni6302 | 挂 |
+| uni6307 | 指 |
+| uni633D | 挽 |
+| uni6349 | 捉 |
+| uni634F | 捏 |
+| uni6355 | 捕 |
+| uni636E | 据 |
+| uni6388 | 授 |
+| uni6389 | 掉 |
+| uni638C | 掌 |
+| uni63A9 | 掩 |
+| uni63AA | 措 |
+| uni63CF | 描 |
+| uni63D0 | 提 |
+| uni63F4 | 援 |
+| uni640F | 搏 |
+| uni6478 | 摸 |
+| uni6492 | 撒 |
+| uni64CD | 操 |
+| uni653F | 政 |
+| uni6597 | 斗 |
+| uni6599 | 料 |
+| uni65E6 | 旦 |
+| uni65E8 | 旨 |
+| uni65FA | 旺 |
+| uni6620 | 映 |
+| uni6628 | 昨 |
+| uni662D | 昭 |
+| uni6652 | 晒 |
+| uni6674 | 晴 |
+| uni667A | 智 |
+| uni6691 | 暑 |
+| uni6696 | 暖 |
+| uni66B4 | 暴 |
+| uni66FF | 替 |
+| uni670D | 服 |
+| uni671F | 期 |
+| uni6731 | 朱 |
+
+### Glyphs modified
+
+| Glyph name | Character | Reason |
+| ---------- | --------- | ------ |
+| uni4F60 | 你 | Slight adjustment of glyph in Heavy and also the outlines are updated to v2.005 sources |
+| uni4FC4 | 俄 | Proportion adjustment of the right 我 component in ExtraLight |
+| uni5208 | 刈 | Proportion adjustment of the right 刂 component |
+| uni522B | 别 | Proportion adjustment of the right 刂 component |
+| uni5821 | 堡 | Extremely minor adjustment to ExtraLight: changed vertical stroke stem to 30 for consistency instead of 31 in top-right 呆 component (which is a CN glyph issue) |
+| uni602A | 怪 | Proportion adjustment of the right 圣 component
+| uni60DC | 惜 | Proportion adjustment of the right 昔 component
+| uni627E | 找 | Changed left 扌 radical to a proper JP-design |
+
 ## 2025-11-09 *(v0.005)*
 
-*This update several characters, mostly from 土 to 戈 (which also includes 尸, 山 (radical placed on top), 彳, 心 (忄)) that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han) and some extras, like characters that covers the 酉 component.*
+*This update includes several characters, mostly from 土 to 戈 (which also includes 尸, 山 (radical placed on top), 彳, 心 (忄)) that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han) and some extras, like characters that covers the 酉 component.*
 
 ### Glyphs added
 

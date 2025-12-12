@@ -7,10 +7,10 @@ cid11147
 </note>
   <outline>
     <contour>
-      <point x="640" y="710" type="line"/>
-      <point x="611" y="710" type="line"/>
-      <point x="611" y="168" type="line"/>
-      <point x="640" y="168" type="line"/>
+      <point x="650" y="710" type="line"/>
+      <point x="621" y="710" type="line"/>
+      <point x="621" y="168" type="line"/>
+      <point x="650" y="168" type="line"/>
     </contour>
     <contour>
       <point x="897" y="826" type="line"/>

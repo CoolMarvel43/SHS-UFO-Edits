@@ -9,8 +9,8 @@ cid13643
     <contour>
       <point x="620" y="262" type="line"/>
       <point x="620" y="611" type="line"/>
-      <point x="589" y="611" type="line"/>
-      <point x="589" y="262" type="line"/>
+      <point x="590" y="611" type="line"/>
+      <point x="590" y="262" type="line"/>
     </contour>
     <contour>
       <point x="599" y="489" type="curve"/>
