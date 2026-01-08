@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3434</string>
+    <string>3436</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -291,6 +291,7 @@
       <string>uni8134</string>
       <string>uni8142</string>
       <string>uni8144</string>
+      <string>uni8144.CN</string>
       <string>uni8156</string>
       <string>uni815C</string>
       <string>uni8162</string>

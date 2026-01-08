@@ -51,16 +51,16 @@ cid25335
       <point x="311" y="271"/>
     </contour>
     <contour>
-      <point x="860" y="812" type="line"/>
-      <point x="464" y="812" type="line"/>
-      <point x="464" y="424" type="line"/>
-      <point x="860" y="424" type="line"/>
+      <point x="890" y="812" type="line"/>
+      <point x="434" y="812" type="line"/>
+      <point x="434" y="424" type="line"/>
+      <point x="890" y="424" type="line"/>
     </contour>
     <contour>
-      <point x="594" y="550" type="line"/>
-      <point x="594" y="686" type="line"/>
-      <point x="721" y="686" type="line"/>
-      <point x="721" y="550" type="line"/>
+      <point x="564" y="550" type="line"/>
+      <point x="564" y="686" type="line"/>
+      <point x="751" y="686" type="line"/>
+      <point x="751" y="550" type="line"/>
     </contour>
     <contour>
       <point x="646" y="379" type="line"/>
@@ -95,4 +95,10 @@ cid25335
       <point x="892" y="-35" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-08 04:43:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -77,5 +77,5 @@ Any design problems or suggestions, or any ideas to improve the presentation or 
 * ButTaiwan for the Gen font series ([GenYoGothic (源樣黑體)](https://github.com/ButTaiwan/genyog-font)), for which I recreated the き and さ kana designs to work with variable format, and also since v2 had given me the idea to work on semi-modern forms, when they are included alongside classical forms.
 * Tamcy for providing the sources to the [Chiron HK](https://github.com/chiron-fonts/chiron-hei-hk-gf) [font series](https://github.com/chiron-fonts/chiron-sung-hk-gf) for Google Fonts.
 * Ichitenfont for the [Inherited Glyph reference](https://github.com/ichitenfont/inheritedglyphs).
-* GuiWonder for his project to quickly create an alternate traditional orthography for Source Han Sans/Serif under the name [Shanggu](https://github.com/GuiWonder/Shanggu). My plan is to improve the quality of their glyphs, despite the project recently being archived.
+* GuiWonder for his project to quickly create an alternate traditional orthography for Source Han Sans/Serif under the name [Shanggu](https://github.com/GuiWonder/Shanggu). My plan is to improve the quality of their glyphs.
 * IBM for choosing to develop [IBM Plex Sans TC](https://github.com/IBM/plex) in the semi-modern orthography format rather than the handwritten orthography format of Source Han Sans.

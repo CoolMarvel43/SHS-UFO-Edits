@@ -1,5 +1,27 @@
 # Changelog for V1 Revival Sans
 
+## 2026-01-08 *(v0.003)*
+
+*This is a minor update with adjustments to a few existing glyphs, and the addition of an unencoded uni8144\.CN 腄 glyph which is based on the original v1 uni8144-JP glyph.*
+
+### Glyphs added
+
+| Glyph name         | Character | Note |
+| ------------------ | --------- | ---- |
+| uni8144\.CN | 腄 | The original v1 uni8144-JP glyph (with very slight adjustments in ExtraLight) is coincidentally suitable for Mainland China conventions, so it is included alongside the adjusted uni8144 (in this repository) glyph. |
+
+### Glyphs modified
+
+| Glyph name | Character | Reason |
+| ---------- | --------- | ------ |
+| uni524E | 剎 | Used Chiukong Gothic as a base, but with slight adjustments as the original v1 JP glyph isn't actually well-designed |
+| uni561F | 嘟 | Adjusted the left 口 radical and the right 都 component for better visual balance in ExtraLight |
+| uni57BA | 垺 | Adjusted the 土 radical position to be more in line with Adobe-designed JP glyphs |
+| uni6CB7 | 沷 | Fixed a minor outline bug in ExtraLight which was made when restoring the glyph; the original v1 JP glyph did not have the bug |
+| uni7170 | 煰 | Increased width of top 口 component in right 品 component |
+| uni833F | 茿 | Improved bezier quality of one of the rightmost strokes in the bottom-right 凡 component |
+
+
 ## 2025-10-23 *(v0.002)*
 
 *This update fixes the position of the left 口 radical in most Iwata-designed v1 JP glyphs to match Adobe-designed JP glyphs.*
