@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni6B62" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="6B62"/>
+  <note>
+cid22627
+</note>
+  <outline>
+    <contour>
+      <point x="895" y="444" type="line"/>
+      <point x="895" y="474" type="line"/>
+      <point x="532" y="474" type="line"/>
+      <point x="532" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="940" y="-21" type="line"/>
+      <point x="940" y="8" type="line"/>
+      <point x="57" y="8" type="line"/>
+      <point x="57" y="-21" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="-4" type="line"/>
+      <point x="545" y="825" type="line"/>
+      <point x="516" y="825" type="line"/>
+      <point x="516" y="-4" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="-4" type="line"/>
+      <point x="236" y="596" type="line"/>
+      <point x="207" y="596" type="line"/>
+      <point x="207" y="-4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-12 14:01:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

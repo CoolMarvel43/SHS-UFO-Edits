@@ -1,5 +1,26 @@
 # Changelog for Missing JP Sans
 
+## 2026-01-12 *(v0.007)*
+
+*This is a very minor update.*
+
+### Glyphs added
+
+| Glyph name | Character | Notes |
+| ---------- | --------- | ----- |
+| uni6B62    | 止         |  |
+| uni6B64    | 此         |  |
+| uni7389    | 玉         |  |
+| uni7684    | 的         | Glyph is based on the uni7684uE0101-JP glyph. Added because there is a stiff drop stroke in the right 勺 component in Heavy, that CN design usually has. |
+| uni7B51    | 筑         | Glyph is based on the uni7B51uE0101-JP glyph. |
+
+### Glyphs modified
+
+| Glyph name | Character | Reason |
+| ---------- | --------- | ------ |
+| uni79CB    | 秋         | No visual change to the glyph, only optimised the number of nodes in the 火 component to remove an erroneous middle node at the top (which is for some reason a relic of the Source Han Sans internal smart component system when originally developed) |
+
+
 ## 2025-12-12 *(v0.006)*
 
 *This update includes characters that belong to the 手 and 日 radicals, that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han). In addition, there are some adjustments to existing glyphs.*

@@ -54,7 +54,6 @@ cid29092
     </contour>
     <contour>
       <point x="753" y="850" type="line"/>
-      <point x="680" y="850" type="line"/>
       <point x="611" y="850" type="line"/>
       <point x="611" y="463" type="line" smooth="yes"/>
       <point x="611" y="342"/>
@@ -97,4 +96,10 @@ cid29092
       <point x="930" y="497"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-12 13:35:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>
