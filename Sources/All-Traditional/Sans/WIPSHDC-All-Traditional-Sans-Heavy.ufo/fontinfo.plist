@@ -15,7 +15,7 @@
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
-    <string>2025/11/25 07:41:06</string>
+    <string>2026/01/16 09:28:40</string>
     <key>openTypeHheaAscender</key>
     <integer>1160</integer>
     <key>openTypeHheaDescender</key>
@@ -91,7 +91,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>3</integer>
+    <integer>4</integer>
     <key>xHeight</key>
     <integer>543</integer>
   </dict>

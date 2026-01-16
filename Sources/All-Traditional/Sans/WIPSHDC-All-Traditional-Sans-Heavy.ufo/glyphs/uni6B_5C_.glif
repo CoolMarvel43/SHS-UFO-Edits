@@ -122,7 +122,6 @@ cid22606
     </contour>
     <contour>
       <point x="809" y="625" type="line"/>
-      <point x="741" y="625" type="line"/>
       <point x="670" y="625" type="line"/>
       <point x="670" y="455" type="line" smooth="yes"/>
       <point x="670" y="346"/>
@@ -170,4 +169,10 @@ cid22606
       <point x="881" y="694" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-16 15:15:19 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,10 +7,10 @@ cid40086
 </note>
   <outline>
     <contour>
-      <point x="799" y="574" type="line"/>
+      <point x="876" y="574" type="line"/>
       <point x="456" y="574" type="line"/>
       <point x="456" y="545" type="line"/>
-      <point x="799" y="545" type="line"/>
+      <point x="876" y="545" type="line"/>
     </contour>
     <contour>
       <point x="874" y="782" type="line"/>
@@ -19,10 +19,10 @@ cid40086
       <point x="874" y="753" type="line"/>
     </contour>
     <contour>
-      <point x="799" y="361" type="line"/>
+      <point x="876" y="361" type="line"/>
       <point x="451" y="361" type="line"/>
       <point x="451" y="331" type="line"/>
-      <point x="799" y="331" type="line"/>
+      <point x="876" y="331" type="line"/>
     </contour>
     <contour>
       <point x="889" y="782" type="line"/>

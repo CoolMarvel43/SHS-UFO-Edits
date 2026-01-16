@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni76F4.MN" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+cid27882
+</note>
+  <outline>
+    <contour>
+      <point x="936" y="662" type="line"/>
+      <point x="936" y="790" type="line"/>
+      <point x="66" y="790" type="line"/>
+      <point x="66" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="367" type="line"/>
+      <point x="766" y="471" type="line"/>
+      <point x="234" y="471" type="line"/>
+      <point x="234" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="229" type="line"/>
+      <point x="766" y="333" type="line"/>
+      <point x="234" y="333" type="line"/>
+      <point x="234" y="229" type="line"/>
+    </contour>
+    <contour>
+      <point x="961" y="-75" type="line"/>
+      <point x="961" y="56" type="line"/>
+      <point x="41" y="56" type="line"/>
+      <point x="41" y="-75" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="9" type="line"/>
+      <point x="834" y="622" type="line"/>
+      <point x="177" y="622" type="line"/>
+      <point x="177" y="9" type="line"/>
+      <point x="317" y="9" type="line"/>
+      <point x="317" y="504" type="line"/>
+      <point x="686" y="504" type="line"/>
+      <point x="686" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="772" y="91" type="line"/>
+      <point x="772" y="195" type="line"/>
+      <point x="240" y="195" type="line"/>
+      <point x="240" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="553" type="line"/>
+      <point x="575" y="856" type="line"/>
+      <point x="421" y="856" type="line"/>
+      <point x="421" y="553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-16 15:17:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

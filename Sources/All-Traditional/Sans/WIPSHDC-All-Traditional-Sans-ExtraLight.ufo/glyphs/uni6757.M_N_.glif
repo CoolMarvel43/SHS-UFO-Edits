@@ -32,14 +32,14 @@ cid20822
     <contour>
       <point x="500" y="277" type="curve"/>
       <point x="474" y="290" type="line"/>
-      <point x="370" y="153"/>
-      <point x="204" y="35"/>
-      <point x="45" y="-14" type="curve"/>
-      <point x="53" y="-20"/>
-      <point x="62" y="-31"/>
-      <point x="67" y="-40" type="curve"/>
-      <point x="224" y="11"/>
-      <point x="391" y="133"/>
+      <point x="385" y="166"/>
+      <point x="209" y="39"/>
+      <point x="48" y="-18" type="curve"/>
+      <point x="56" y="-24"/>
+      <point x="65" y="-34"/>
+      <point x="70" y="-43" type="curve"/>
+      <point x="230" y="17"/>
+      <point x="407" y="149"/>
     </contour>
     <contour>
       <point x="212" y="705" type="line"/>
@@ -70,14 +70,20 @@ cid20822
     <contour>
       <point x="517" y="292" type="curve"/>
       <point x="491" y="278" type="line"/>
-      <point x="598" y="154"/>
-      <point x="768" y="32"/>
-      <point x="932" y="-40" type="curve"/>
-      <point x="938" y="-31"/>
-      <point x="947" y="-21"/>
-      <point x="955" y="-15" type="curve"/>
-      <point x="790" y="54"/>
-      <point x="621" y="172"/>
+      <point x="600" y="153"/>
+      <point x="770" y="32"/>
+      <point x="932" y="-37" type="curve"/>
+      <point x="938" y="-28"/>
+      <point x="947" y="-18"/>
+      <point x="955" y="-12" type="curve"/>
+      <point x="792" y="54"/>
+      <point x="623" y="171"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-16 15:15:19 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -53,7 +53,7 @@ value = (
 );
 }
 );
-date = "2025-11-25 07:41:06 +0000";
+date = "2026-01-16 09:28:40 +0000";
 familyName = "WIPSHDC-All-Traditional-Sans";
 fontMaster = (
 {
@@ -334,5 +334,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 3;
+versionMinor = 4;
 }

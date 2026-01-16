@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni53F6" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="53F6"/>
+  <note>
+cid11952
+</note>
+  <outline>
+    <contour>
+      <point x="953" y="443" type="line"/>
+      <point x="953" y="473" type="line"/>
+      <point x="372" y="473" type="line"/>
+      <point x="372" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="667" y="-70" type="line"/>
+      <point x="667" y="812" type="line"/>
+      <point x="637" y="812" type="line"/>
+      <point x="637" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="180" type="line"/>
+      <point x="354" y="719" type="line"/>
+      <point x="100" y="719" type="line"/>
+      <point x="100" y="690" type="line"/>
+      <point x="325" y="690" type="line"/>
+      <point x="325" y="209" type="line"/>
+      <point x="100" y="209" type="line"/>
+      <point x="100" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="97" type="line"/>
+      <point x="112" y="719" type="line"/>
+      <point x="83" y="719" type="line"/>
+      <point x="83" y="97" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-16 15:17:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

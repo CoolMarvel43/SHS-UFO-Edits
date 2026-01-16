@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5929.MN" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+cid14098
+</note>
+  <outline>
+    <contour>
+      <point x="571" y="428" type="curve"/>
+      <point x="428" y="399" type="line"/>
+      <point x="505" y="139"/>
+      <point x="622" y="-24"/>
+      <point x="884" y="-96" type="curve"/>
+      <point x="906" y="-53"/>
+      <point x="951" y="14"/>
+      <point x="985" y="47" type="curve"/>
+      <point x="748" y="97"/>
+      <point x="628" y="231"/>
+    </contour>
+    <contour>
+      <point x="941" y="340" type="line"/>
+      <point x="941" y="490" type="line"/>
+      <point x="63" y="490" type="line"/>
+      <point x="63" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="898" y="645" type="line"/>
+      <point x="898" y="795" type="line"/>
+      <point x="102" y="795" type="line"/>
+      <point x="102" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="502" type="curve" smooth="yes"/>
+      <point x="568" y="755" type="line"/>
+      <point x="412" y="755" type="line"/>
+      <point x="412" y="503" type="line" smooth="yes"/>
+      <point x="412" y="342"/>
+      <point x="368" y="126"/>
+      <point x="20" y="33" type="curve"/>
+      <point x="50" y="3"/>
+      <point x="94" y="-61"/>
+      <point x="110" y="-98" type="curve"/>
+      <point x="512" y="17"/>
+      <point x="568" y="287"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-01-16 15:17:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>
