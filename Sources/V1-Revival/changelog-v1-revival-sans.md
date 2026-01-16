@@ -1,5 +1,15 @@
 # Changelog for V1 Revival Sans
 
+## 2026-01-16 *(v0.003)*
+
+*No major change, just one quick update, so version number stays the same for now.*
+
+### Glyphs modified
+
+| Glyph name | Character | Reason |
+| ---------- | --------- | ------ |
+| uni833F | 茿 | Adjusted proportions of 巩 component. |
+
 ## 2026-01-08 *(v0.003)*
 
 *This is a minor update with adjustments to a few existing glyphs, and the addition of an unencoded uni8144\.CN 腄 glyph which is based on the original v1 uni8144-JP glyph.*
@@ -20,7 +30,6 @@
 | uni6CB7 | 沷 | Fixed a minor outline bug in ExtraLight which was made when restoring the glyph; the original v1 JP glyph did not have the bug |
 | uni7170 | 煰 | Increased width of top 口 component in right 品 component |
 | uni833F | 茿 | Improved bezier quality of one of the rightmost strokes in the bottom-right 凡 component |
-
 
 ## 2025-10-23 *(v0.002)*
 
