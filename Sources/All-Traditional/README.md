@@ -79,6 +79,14 @@ This repository (along with the [Missing JP glyphs](../Missing-JP-Glyphs/README.
 
 However, that is to say that not one type foundry is better than the other. Every one of them (even Adobe's own foundry) makes mistakes. Hence why I am also planning to improve on the glyph shapes if I find any design issues with JP glyphs.
 
+### Regarding less common characters
+
+While this repository ultimately aims to fully cover all Traditional Chinese character sets, due to the sheer amount of time required to polish the design of the font, less common characters (e.g. Big5 Level 2, HKSCS) are not expected to be of high quality as compared to the more common characters (e.g. Big5 Level 1, jf7000 base, etc.).
+
+In other words, while it is planned to improve and make consistent the glyph quality of SHS forks, less common characters are not subject to this in the near term, and will very likely retain the “ugly” CN-style design and proportions, with only minor modifications to traditional-style orthography, and may even display shape and stem width inconsistencies in the ExtraLight and Heavy masters due to quick transform edits.
+
+The low-quality glyphs will be indicated with a brown-coloured tag (🟤 for GitHub use), even if magenta is reserved for borrowed SHS forks (for which instead I will use this tag for glyphs good enough to be borrowed as-is).
+
 ## Future updates in Source Han Sans
 
 Regarding a potential major update to Source Han Sans in the future, it is possible that some JP forms as seen in v2 (e.g. 立, 豆, 子, 戶, 人, 夕, etc.) might be unified to the CN forms. If such a scenario happens, the sources will retain the v2 JP-style aesthetics rather than adopt the new unified forms.
@@ -101,7 +109,8 @@ Here are a list of glyph suffixes. Classic will be the default glyph shape, so g
 - uniXXXX<span>.</span>MN/MN1/MN2 - Modern forms, following the above conventions about which type it is. "MN1a" and "MN1b" may be used if there is more than one form of the same type. If there is one form that can be shared between different types, it may only be appended as ".MN".
 - uniXXXX<span>.</span>inherited - Glyph shapes that follow the [Inherited Glyph standard](https://github.com/ichitenfont/inheritedglyphs) and may not appear in mid-20th century prints.
 - uniXXXX<span>.</span>inherited2 - Glyph shapes that follow an alternate and acceptable variant form of Inherited Glyphs.
-- uniXXXX<span>.</span>JP *(will not be worked on)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media. If it is, it would be labelled ".CL1/CL1a/CL1b" instead.
+- uniXXXX<span>.</span>JP *(will not be worked on)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media.
+- uniXXXX<span>.</span>alt1/alt2 - Any other form that does not belong to CL, MN or JP forms, and is merely only a stylistic difference.
 
 ## List of glyphs available
 
@@ -121,4 +130,5 @@ A visual representation of the glyph edits is available in PDF format, in ExtraL
 
 Some glyphs are colour coded (which are also indicated in the source files). For more information, see the glyph list, under the Colour Tag column. But roughly:
 
-**Magenta** 🟣 - Borrowed glyphs from other Source Han forks without any modifications whatsoever. There is no guarantee that any future updates from them will be synced to this repository. If a glyph is modified in the future, this tag will be removed.
+**Magenta** 🟣 - Borrowed glyphs from other Source Han forks without any modifications whatsoever. There is no guarantee that any future updates from them will be synced to this repository. If a glyph is modified in the future, this tag will be removed. The glyph has also been checked for quality to be included as-is.
+**Brown** 🟤 - Low quality glyphs, which while edited to make them traditional orthography compliant, will retain some unprofessional-looking design, whether done by SinoType (CN and TW locales), Iwata (JP and KR locales) or existing SHS forks.
