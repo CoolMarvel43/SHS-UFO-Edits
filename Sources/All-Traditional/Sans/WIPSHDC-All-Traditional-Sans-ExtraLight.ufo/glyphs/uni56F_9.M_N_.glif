@@ -80,10 +80,4 @@ cid13203
       <point x="456" y="180"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-01-16 15:17:40 +0000</string>
-    </dict>
-  </lib>
 </glyph>

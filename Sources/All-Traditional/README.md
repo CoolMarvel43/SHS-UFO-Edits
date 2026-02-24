@@ -2,11 +2,7 @@
 
 ## Overview
 
-This category has been spun off from Old Traditional, because of changing priorities.
-
-While the whole repository is reorganised, some new miscellaneous glyphs have been added, and a few glyphs have been revised for better design.
-
-This revamped category is a shared master library for every unofficial orthography of Traditional Chinese which do not follow handwritten-based orthographies of the Greater China region (Chinese: 楷化, 新字形), and hence will never make it into the main Adobe/Google fonts due to their glyph policy.
+This category is a shared master library for every unofficial orthography of Traditional Chinese which do not follow handwritten-based orthographies of the Greater China region (Chinese: 楷化, 新字形), and hence will never make it into the main Adobe/Google fonts due to their glyph policy.
 
 In other words, this is a library of glyphs that are commonly seen in most commercial Traditional Chinese typefaces before handwritten orthographies took over some time in the 21st century.
 
@@ -109,7 +105,7 @@ Here are a list of glyph suffixes. Classic will be the default glyph shape, so g
 - uniXXXX<span>.</span>MN/MN1/MN2 - Modern forms, following the above conventions about which type it is. "MN1a" and "MN1b" may be used if there is more than one form of the same type. If there is one form that can be shared between different types, it may only be appended as ".MN".
 - uniXXXX<span>.</span>inherited - Glyph shapes that follow the [Inherited Glyph standard](https://github.com/ichitenfont/inheritedglyphs) and may not appear in mid-20th century prints.
 - uniXXXX<span>.</span>inherited2 - Glyph shapes that follow an alternate and acceptable variant form of Inherited Glyphs.
-- uniXXXX<span>.</span>JP *(will not be worked on)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media.
+- uniXXXX<span>.</span>JP *(will be of low priority)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media.
 - uniXXXX<span>.</span>alt1/alt2 - Any other form that does not belong to CL, MN or JP forms, and is merely only a stylistic difference.
 
 ## List of glyphs available

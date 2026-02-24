@@ -132,10 +132,4 @@ cid22552
       <point x="975" y="655" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-01-16 15:17:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>

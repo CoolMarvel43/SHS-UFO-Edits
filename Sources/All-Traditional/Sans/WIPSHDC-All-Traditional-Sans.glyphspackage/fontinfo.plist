@@ -334,5 +334,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 4;
+versionMinor = 5;
 }

@@ -144,34 +144,28 @@ cid22288
       <point x="291" y="464"/>
     </contour>
     <contour>
-      <point x="654" y="699" type="line"/>
-      <point x="654" y="799" type="line"/>
+      <point x="659" y="699" type="line"/>
+      <point x="659" y="799" type="line"/>
       <point x="375" y="799" type="line"/>
       <point x="375" y="699" type="line"/>
     </contour>
     <contour>
-      <point x="589" y="661" type="line"/>
-      <point x="589" y="855" type="line"/>
-      <point x="466" y="855" type="line"/>
-      <point x="466" y="661" type="line"/>
+      <point x="599" y="661" type="line"/>
+      <point x="599" y="855" type="line"/>
+      <point x="476" y="855" type="line"/>
+      <point x="476" y="661" type="line"/>
     </contour>
     <contour>
-      <point x="875" y="661" type="line"/>
-      <point x="875" y="855" type="line"/>
-      <point x="750" y="855" type="line"/>
-      <point x="750" y="661" type="line"/>
+      <point x="865" y="661" type="line"/>
+      <point x="865" y="855" type="line"/>
+      <point x="740" y="855" type="line"/>
+      <point x="740" y="661" type="line"/>
     </contour>
     <contour>
       <point x="970" y="699" type="line"/>
       <point x="970" y="799" type="line"/>
-      <point x="684" y="799" type="line"/>
-      <point x="684" y="699" type="line"/>
+      <point x="679" y="799" type="line"/>
+      <point x="679" y="699" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-01-16 15:17:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>

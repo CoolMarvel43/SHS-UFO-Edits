@@ -144,8 +144,8 @@ cid22288
       <point x="257" y="451"/>
     </contour>
     <contour>
-      <point x="647" y="708" type="line"/>
-      <point x="647" y="737" type="line"/>
+      <point x="652" y="708" type="line"/>
+      <point x="652" y="737" type="line"/>
       <point x="380" y="737" type="line"/>
       <point x="380" y="708" type="line"/>
     </contour>
@@ -164,14 +164,8 @@ cid22288
     <contour>
       <point x="955" y="708" type="line"/>
       <point x="955" y="737" type="line"/>
-      <point x="687" y="737" type="line"/>
-      <point x="687" y="708" type="line"/>
+      <point x="682" y="737" type="line"/>
+      <point x="682" y="708" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-01-16 15:17:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>
