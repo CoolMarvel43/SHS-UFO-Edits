@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8F66" format="2">
+  <advance width="1000"/>
+  <unicode hex="8F66"/>
+  <note>
+cid39922
+</note>
+  <outline>
+    <contour>
+      <point x="939" y="716" type="line"/>
+      <point x="65" y="716" type="line"/>
+      <point x="65" y="576" type="line"/>
+      <point x="939" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="209" type="line"/>
+      <point x="41" y="209" type="line"/>
+      <point x="41" y="67" type="line"/>
+      <point x="960" y="67" type="line"/>
+    </contour>
+    <contour>
+      <point x="597" y="536" type="line"/>
+      <point x="440" y="536" type="line"/>
+      <point x="440" y="-95" type="line"/>
+      <point x="597" y="-95" type="line"/>
+    </contour>
+    <contour>
+      <point x="873" y="439" type="line"/>
+      <point x="201" y="439" type="line"/>
+      <point x="201" y="301" type="line"/>
+      <point x="873" y="301" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="838" type="curve"/>
+      <point x="307" y="855" type="line"/>
+      <point x="249" y="663"/>
+      <point x="174" y="450"/>
+      <point x="112" y="301" type="curve"/>
+      <point x="272" y="273" type="line"/>
+      <point x="331" y="419"/>
+      <point x="406" y="636"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-02 08:42:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -28,6 +28,10 @@ The characters are intended to only cover Simplified Chinese, such as the GB2312
 - [Sans](glyphlist-new-simplified-sans.md)
 - [Serif](glyphlist-new-simplified-serif.md)
 
+## Changelog
+
+- [Sans](changelog-new-simplified-sans.md)
+
 ## PDF Preview
 
 A visual representation of the glyph edits is available in PDF format, in ExtraLight, Regular and Heavy weights.

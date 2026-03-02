@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3343</string>
+    <string>3436</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -42,46 +42,97 @@
     <false/>
     <key>public.glyphOrder</key>
     <array>
+      <string>uni4E1C</string>
+      <string>uni4E22</string>
       <string>uni4E3D</string>
       <string>uni4E49</string>
+      <string>uni4E50</string>
       <string>uni4E60</string>
+      <string>uni4EE4</string>
+      <string>uni4FE1</string>
       <string>uni5170</string>
       <string>uni5173</string>
+      <string>uni5199</string>
+      <string>uni519B</string>
+      <string>uni519C</string>
       <string>uni529E</string>
       <string>uni52A8</string>
+      <string>uni5355</string>
+      <string>uni53CD</string>
       <string>uni53D1</string>
+      <string>uni5988</string>
       <string>uni5B9E</string>
       <string>uni5BBE</string>
       <string>uni5C49</string>
+      <string>uni5C81</string>
       <string>uni6001</string>
+      <string>uni65B0</string>
       <string>uni65F6</string>
       <string>uni6811</string>
       <string>uni6837</string>
+      <string>uni6B21</string>
       <string>uni6C47</string>
       <string>uni6C49</string>
       <string>uni7237</string>
-      <string>uni743C</string>
       <string>uni7535</string>
       <string>uni7E9F</string>
       <string>uni7EA2</string>
+      <string>uni7EA4</string>
+      <string>uni7EAC</string>
+      <string>uni7EBA</string>
+      <string>uni7EC7</string>
       <string>uni7ECF</string>
       <string>uni7ED9</string>
+      <string>uni7EDF</string>
+      <string>uni7F06</string>
       <string>uni8054</string>
+      <string>uni8138</string>
+      <string>uni8A00</string>
       <string>uni8BA0</string>
       <string>uni8BA1</string>
       <string>uni8BA4</string>
       <string>uni8BA9</string>
       <string>uni8BBE</string>
       <string>uni8BDD</string>
+      <string>uni8BE2</string>
       <string>uni8BED</string>
       <string>uni8BF4</string>
       <string>uni8BF7</string>
       <string>uni8BFE</string>
       <string>uni8C01</string>
+      <string>uni8F66</string>
+      <string>uni8F67</string>
+      <string>uni8F6E</string>
+      <string>uni8F93</string>
+      <string>uni8FB9</string>
+      <string>uni8FBE</string>
+      <string>uni8FC1</string>
+      <string>uni8FC7</string>
+      <string>uni8FD0</string>
+      <string>uni8FD3</string>
       <string>uni8FD8</string>
+      <string>uni8FD9</string>
+      <string>uni8FDB</string>
+      <string>uni8FE9</string>
+      <string>uni8FF9</string>
+      <string>uni900D</string>
+      <string>uni9012</string>
+      <string>uni903E</string>
+      <string>uni9065</string>
+      <string>uni90BB</string>
       <string>uni9485</string>
+      <string>uni949F</string>
+      <string>uni94A2</string>
+      <string>uni94C1</string>
+      <string>uni94C3</string>
+      <string>uni94DC</string>
+      <string>uni94F6</string>
+      <string>uni952D</string>
+      <string>uni9547</string>
+      <string>uni957F</string>
       <string>uni95E8</string>
       <string>uni95EE</string>
+      <string>uni95F4</string>
       <string>uni98CE</string>
       <string>uni98DE</string>
       <string>uni9963</string>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni9547" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="9547"/>
+  <note>
+cid42776
+</note>
+  <outline>
+    <contour>
+      <point x="950" y="668" type="line"/>
+      <point x="950" y="781" type="line"/>
+      <point x="427" y="781" type="line"/>
+      <point x="427" y="668" type="line"/>
+    </contour>
+    <contour>
+      <point x="978" y="95" type="line"/>
+      <point x="978" y="209" type="line"/>
+      <point x="404" y="209" type="line"/>
+      <point x="404" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="757" y="595" type="line"/>
+      <point x="757" y="856" type="line"/>
+      <point x="618" y="856" type="line"/>
+      <point x="618" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="65" type="curve"/>
+      <point x="540" y="112" type="line"/>
+      <point x="499" y="69"/>
+      <point x="426" y="29"/>
+      <point x="355" y="3" type="curve"/>
+      <point x="384" y="-21"/>
+      <point x="432" y="-73"/>
+      <point x="454" y="-100" type="curve"/>
+      <point x="530" y="-63"/>
+      <point x="619" y="1"/>
+    </contour>
+    <contour>
+      <point x="830" y="118" type="curve"/>
+      <point x="708" y="57" type="line"/>
+      <point x="765" y="11"/>
+      <point x="835" y="-55"/>
+      <point x="867" y="-96" type="curve"/>
+      <point x="991" y="-20" type="line"/>
+      <point x="955" y="21"/>
+      <point x="888" y="77"/>
+    </contour>
+    <contour>
+      <point x="849" y="442" type="line"/>
+      <point x="849" y="516" type="line"/>
+      <point x="515" y="516" type="line"/>
+      <point x="515" y="442" type="line"/>
+    </contour>
+    <contour>
+      <point x="858" y="340" type="line"/>
+      <point x="858" y="414" type="line"/>
+      <point x="515" y="414" type="line"/>
+      <point x="515" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="858" y="238" type="line"/>
+      <point x="858" y="312" type="line"/>
+      <point x="515" y="312" type="line"/>
+      <point x="515" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="910" y="168" type="line"/>
+      <point x="910" y="634" type="line"/>
+      <point x="467" y="634" type="line"/>
+      <point x="467" y="168" type="line"/>
+      <point x="593" y="168" type="line"/>
+      <point x="593" y="544" type="line"/>
+      <point x="778" y="544" type="line"/>
+      <point x="778" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="834" type="curve"/>
+      <point x="150" y="860" type="line"/>
+      <point x="126" y="770"/>
+      <point x="73" y="677"/>
+      <point x="11" y="619" type="curve"/>
+      <point x="45" y="589"/>
+      <point x="87" y="542"/>
+      <point x="104" y="512" type="curve"/>
+      <point x="181" y="586"/>
+      <point x="250" y="710"/>
+    </contour>
+    <contour>
+      <point x="406" y="629" type="line"/>
+      <point x="406" y="767" type="line"/>
+      <point x="166" y="767" type="line"/>
+      <point x="142" y="629" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="447" type="line"/>
+      <point x="391" y="576" type="line"/>
+      <point x="103" y="576" type="line"/>
+      <point x="103" y="447" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="241" type="line"/>
+      <point x="407" y="370" type="line"/>
+      <point x="50" y="370" type="line"/>
+      <point x="50" y="241" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="60" type="line"/>
+      <point x="301" y="561" type="line"/>
+      <point x="169" y="561" type="line"/>
+      <point x="169" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="35" type="curve"/>
+      <point x="160" y="-95" type="line"/>
+      <point x="234" y="-56"/>
+      <point x="329" y="-5"/>
+      <point x="406" y="38" type="curve"/>
+      <point x="369" y="157" type="line"/>
+      <point x="278" y="116"/>
+      <point x="171" y="69"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-02 08:42:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

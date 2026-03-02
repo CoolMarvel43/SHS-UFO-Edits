@@ -27,42 +27,42 @@ cid31693
     <contour>
       <point x="287" y="814" type="curve"/>
       <point x="259" y="827" type="line"/>
-      <point x="214" y="704"/>
-      <point x="152" y="566"/>
+      <point x="217" y="715"/>
+      <point x="150" y="566"/>
       <point x="97" y="468" type="curve"/>
       <point x="120" y="453" type="line"/>
-      <point x="178" y="555"/>
-      <point x="242" y="695"/>
+      <point x="176" y="551"/>
+      <point x="240" y="691"/>
     </contour>
     <contour>
       <point x="50" y="471" type="curve"/>
       <point x="56" y="440" type="line"/>
-      <point x="120" y="447"/>
-      <point x="213" y="459"/>
+      <point x="122" y="447"/>
+      <point x="215" y="459"/>
       <point x="297" y="472" type="curve"/>
-      <point x="296" y="499" type="line"/>
-      <point x="208" y="487"/>
+      <point x="295" y="499" type="line"/>
+      <point x="207" y="487"/>
       <point x="113" y="476"/>
     </contour>
     <contour>
       <point x="385" y="619" type="curve"/>
       <point x="357" y="634" type="line"/>
-      <point x="284" y="487"/>
-      <point x="190" y="331"/>
+      <point x="287" y="493"/>
+      <point x="187" y="327"/>
       <point x="114" y="231" type="curve"/>
       <point x="137" y="214" type="line"/>
-      <point x="214" y="315"/>
-      <point x="309" y="471"/>
+      <point x="212" y="313"/>
+      <point x="308" y="469"/>
     </contour>
     <contour>
-      <point x="54" y="229" type="curve"/>
-      <point x="60" y="197" type="line"/>
-      <point x="162" y="212"/>
+      <point x="53" y="229" type="curve"/>
+      <point x="61" y="197" type="line"/>
+      <point x="163" y="212"/>
       <point x="292" y="234"/>
       <point x="396" y="254" type="curve"/>
       <point x="395" y="283" type="line"/>
-      <point x="291" y="264"/>
-      <point x="159" y="243"/>
+      <point x="284" y="263"/>
+      <point x="152" y="242"/>
     </contour>
     <contour>
       <point x="50" y="32" type="curve"/>
@@ -75,4 +75,10 @@ cid31693
       <point x="137" y="47"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-02 08:42:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>
