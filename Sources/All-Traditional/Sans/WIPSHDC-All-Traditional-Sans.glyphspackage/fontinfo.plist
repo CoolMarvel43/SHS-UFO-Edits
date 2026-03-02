@@ -230,6 +230,7 @@ instanceInterpolations = {
 m01 = 0.68;
 };
 name = Normal;
+weightClass = 350;
 },
 {
 axesValues = (
