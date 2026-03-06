@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni7261" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="7261"/>
+  <note>
+cid25848
+</note>
+  <outline>
+    <contour>
+      <point x="773" y="-18" type="line"/>
+      <point x="773" y="855" type="line"/>
+      <point x="626" y="855" type="line"/>
+      <point x="626" y="-18" type="line"/>
+    </contour>
+    <contour>
+      <point x="950" y="418" type="line"/>
+      <point x="950" y="558" type="line"/>
+      <point x="450" y="558" type="line"/>
+      <point x="450" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="975" y="-63" type="line"/>
+      <point x="975" y="81" type="line"/>
+      <point x="412" y="81" type="line"/>
+      <point x="412" y="-63" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="328" type="curve"/>
+      <point x="53" y="185" type="line"/>
+      <point x="168" y="210"/>
+      <point x="317" y="243"/>
+      <point x="454" y="276" type="curve"/>
+      <point x="440" y="407" type="line"/>
+      <point x="290" y="377"/>
+      <point x="128" y="345"/>
+    </contour>
+    <contour>
+      <point x="351" y="-95" type="line"/>
+      <point x="351" y="855" type="line"/>
+      <point x="211" y="855" type="line"/>
+      <point x="211" y="-95" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="783" type="curve"/>
+      <point x="79" y="804" type="line"/>
+      <point x="70" y="689"/>
+      <point x="50" y="567"/>
+      <point x="15" y="490" type="curve"/>
+      <point x="43" y="475"/>
+      <point x="95" y="441"/>
+      <point x="117" y="422" type="curve"/>
+      <point x="157" y="510"/>
+      <point x="185" y="651"/>
+    </contour>
+    <contour>
+      <point x="438" y="528" type="line"/>
+      <point x="438" y="666" type="line"/>
+      <point x="113" y="666" type="line"/>
+      <point x="85" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-06 10:00:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

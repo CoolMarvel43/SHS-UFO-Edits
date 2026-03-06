@@ -86,13 +86,13 @@ cid20498
       <point x="86" y="51" type="line"/>
     </contour>
     <contour>
-      <point x="877" y="726" type="curve"/>
+      <point x="876" y="726" type="curve"/>
       <point x="847" y="740" type="line"/>
       <point x="811" y="665"/>
       <point x="757" y="574"/>
       <point x="716" y="520" type="curve"/>
       <point x="738" y="509" type="line"/>
-      <point x="780" y="561"/>
+      <point x="780" y="562"/>
       <point x="833" y="645"/>
     </contour>
     <contour>
@@ -128,4 +128,10 @@ cid20498
       <point x="788" y="773"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-06 10:00:49 +0000</string>
+    </dict>
+  </lib>
 </glyph>

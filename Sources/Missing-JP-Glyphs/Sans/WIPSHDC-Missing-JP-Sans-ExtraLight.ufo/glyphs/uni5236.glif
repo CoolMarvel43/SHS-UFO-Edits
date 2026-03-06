@@ -79,16 +79,22 @@ cid11206
       <point x="560" y="641" type="line"/>
     </contour>
     <contour>
-      <point x="188" y="794" type="curve"/>
-      <point x="159" y="800" type="line"/>
-      <point x="141" y="695"/>
-      <point x="109" y="588"/>
-      <point x="76" y="522" type="curve"/>
-      <point x="84" y="520"/>
-      <point x="97" y="515"/>
-      <point x="105" y="510" type="curve"/>
-      <point x="138" y="579"/>
-      <point x="170" y="688"/>
+      <point x="192" y="794" type="curve"/>
+      <point x="162" y="800" type="line"/>
+      <point x="143" y="699"/>
+      <point x="106" y="596"/>
+      <point x="66" y="532" type="curve"/>
+      <point x="74" y="530"/>
+      <point x="87" y="525"/>
+      <point x="95" y="521" type="curve"/>
+      <point x="133" y="585"/>
+      <point x="171" y="690"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-06 10:00:49 +0000</string>
+    </dict>
+  </lib>
 </glyph>

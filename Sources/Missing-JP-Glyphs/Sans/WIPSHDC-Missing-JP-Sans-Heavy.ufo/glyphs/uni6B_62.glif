@@ -31,10 +31,4 @@ cid22627
       <point x="158" y="30" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-01-12 14:01:00 +0000</string>
-    </dict>
-  </lib>
 </glyph>

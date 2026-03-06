@@ -1,5 +1,114 @@
 # Changelog for Missing JP Sans
 
+## 2026-03-06 *(v0.008)*
+*This update includes characters that belong to the 木, 水(氵), 火(灬), 犬(犭) and 牛 radicals, that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han). In addition, there are some adjustments to existing glyphs.*
+
+### Glyphs added
+
+| Glyph name | Character | Notes                                                                                          |
+| ---------- | --------- | ---------------------------------------------------------------------------------------------- |
+| uni5496    | 咖         |                                                                                                |
+| uni5549    | 啉         |                                                                                                |
+| uni6749    | 杉         |                                                                                                |
+| uni674F    | 杏         |                                                                                                |
+| uni6750    | 材         |                                                                                                |
+| uni675C    | 杜         |                                                                                                |
+| uni675F    | 束         |                                                                                                |
+| uni6770    | 杰         |                                                                                                |
+| uni679A    | 枚         |                                                                                                |
+| uni67AF    | 枯         |                                                                                                |
+| uni67B6    | 架         |                                                                                                |
+| uni67C4    | 柄         |                                                                                                |
+| uni67CF    | 柏         |                                                                                                |
+| uni67D3    | 染         |                                                                                                |
+| uni67D4    | 柔         |                                                                                                |
+| uni67F4    | 柴         |                                                                                                |
+| uni6816    | 栖         |                                                                                                |
+| uni682A    | 株         | Glyph is based on similar glyphs like "stock-han.circled" (CID 2063 in Source Han Sans v2.005) |
+| uni6842    | 桂         |                                                                                                |
+| uni6843    | 桃         |                                                                                                |
+| uni6850    | 桐         |                                                                                                |
+| uni6851    | 桑         |                                                                                                |
+| uni6876    | 桶         |                                                                                                |
+| uni6881    | 梁         |                                                                                                |
+| uni68A2    | 梢         | Glyph is partially based on the uni68A2uE0101-JP glyph.                                        |
+| uni68A8    | 梨         |                                                                                                |
+| uni68B0    | 械         |                                                                                                |
+| uni68C9    | 棉         |                                                                                                |
+| uni68CB    | 棋         |                                                                                                |
+| uni68DA    | 棚         | Glyph is based on the uni68DAuE0101-JP glyph.                                                  |
+| uni68F5    | 棵         |                                                                                                |
+| uni6905    | 椅         |                                                                                                |
+| uni6A21    | 模         |                                                                                                |
+| uni6B6A    | 歪         |                                                                                                |
+| uni6C41    | 汁         |                                                                                                |
+| uni6C57    | 汗         |                                                                                                |
+| uni6C60    | 池         |                                                                                                |
+| uni6C6A    | 汪         |                                                                                                |
+| uni6C7D    | 汽         |                                                                                                |
+| uni6C83    | 沃         |                                                                                                |
+| uni6C88    | 沈         |                                                                                                |
+| uni6C89    | 沉         |                                                                                                |
+| uni6CAB    | 沫         |                                                                                                |
+| uni6CB9    | 油         |                                                                                                |
+| uni6CBE    | 沾         |                                                                                                |
+| uni6CCA    | 泊         |                                                                                                |
+| uni6CE2    | 波         |                                                                                                |
+| uni6CE5    | 泥         |                                                                                                |
+| uni6CF3    | 泳         |                                                                                                |
+| uni6D01    | 洁         |                                                                                                |
+| uni6D12    | 洒         |                                                                                                |
+| uni6D1E    | 洞         |                                                                                                |
+| uni6D25    | 津         |                                                                                                |
+| uni6D2A    | 洪         |                                                                                                |
+| uni6D32    | 洲         |                                                                                                |
+| uni6D66    | 浦         |                                                                                                |
+| uni6D88    | 消         | Glyph is partially based on the uni6D88uE0101-JP glyph.                                        |
+| uni6D8C    | 涌         |                                                                                                |
+| uni6DCB    | 淋         |                                                                                                |
+| uni6DE1    | 淡         |                                                                                                |
+| uni6DF9    | 淹         |                                                                                                |
+| uni6E29    | 温         |                                                                                                |
+| uni6E56    | 湖         |                                                                                                |
+| uni6F02    | 漂         |                                                                                                |
+| uni6F0F    | 漏         |                                                                                                |
+| uni6F20    | 漠         |                                                                                                |
+| uni6F2B    | 漫         |                                                                                                |
+| uni6F6D    | 潭         |                                                                                                |
+| uni6F6E    | 潮         | Glyph is based on the u2F90F-JP glyph                                                          |
+| uni7076    | 灶         |                                                                                                |
+| uni70B8    | 炸         |                                                                                                |
+| uni70D8    | 烘         |                                                                                                |
+| uni714C    | 煌         |                                                                                                |
+| uni7159    | 煙         | Glyph is based on the uni7159uE0101-JP glyph.                                                  |
+| uni7164    | 煤         |                                                                                                |
+| uni7167    | 照         |                                                                                                |
+| uni716E    | 煮         | Glyph is based on the uniFA48-JP glyph                                                         |
+| uni71D5    | 燕         |                                                                                                |
+| uni71E5    | 燥         |                                                                                                |
+| uni723D    | 爽         |                                                                                                |
+| uni7261    | 牡         |                                                                                                |
+| uni7267    | 牧         |                                                                                                |
+| uni7272    | 牲         |                                                                                                |
+| uni7281    | 犁         |                                                                                                |
+| uni72AC    | 犬         |                                                                                                |
+| uni72AF    | 犯         |                                                                                                |
+| uni72C0    | 狀         |                                                                                                |
+| uni72C2    | 狂         |                                                                                                |
+| uni7334    | 猴         |                                                                                                |
+| uni7345    | 獅         |                                                                                                |
+
+### Glyphs modified
+
+| Glyph name | Character | Notes                                                                                                      |
+| ---------- | --------- | ---------------------------------------------------------------------------------------------------------- |
+| uni5236    | 制         | Adjusted the angle of the first 丿 stroke in the left component in ExtraLight so it's more consistent with similar JP glyphs (like those with the 牛 components) in Source Han Sans |
+| uni63F4    | 援         | Made rightmost stroke of 爫 in ExtraLight a little less thick for better stem width consistency |
+| uni6628    | 昨         | Adjusted right 乍 component for better proportion in Heavy |
+| uni6696    | 暖         | Made rightmost stroke of 爫 in ExtraLight a little less thick for better stem width consistency |
+| uni671F    | 期         | Adjusted bottom strokes of the 八 and 月 components so the intermediate weights do not look weird with them touching each other *(which may be why the CN glyph was chosen in the first place for Source Han Sans)* |
+| uni7269    | 物         | Adjusted 勿 component for better proportion in Heavy |
+
 ## 2026-01-12 *(v0.007)*
 
 *This is a very minor update.*
