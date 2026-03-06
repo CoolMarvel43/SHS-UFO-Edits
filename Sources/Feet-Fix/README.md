@@ -14,6 +14,10 @@ For any "feet" in 口, 山 and similar components (let's say A) placed on top, i
 
 - [Sans](glyphlist-feet-fix-sans.md)
 
+## Changelog
+
+- [Sans](changelog-feet-fix-sans.md)
+
 ## PDF Preview
 
 A visual representation of the glyph edits is available in PDF format, in ExtraLight, Regular and Heavy weights.

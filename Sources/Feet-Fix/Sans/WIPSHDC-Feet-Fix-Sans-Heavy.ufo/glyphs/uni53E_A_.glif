@@ -3,20 +3,20 @@
   <advance width="1000" height="1000"/>
   <unicode hex="53EA"/>
   <note>
-cid11909
+cid11934
 </note>
   <outline>
     <contour>
+      <point x="875" y="267" type="line"/>
       <point x="875" y="798" type="line"/>
       <point x="152" y="798" type="line"/>
       <point x="152" y="267" type="line"/>
-      <point x="875" y="267" type="line"/>
     </contour>
     <contour>
+      <point x="721" y="406" type="line"/>
       <point x="299" y="406" type="line"/>
       <point x="299" y="659" type="line"/>
       <point x="721" y="659" type="line"/>
-      <point x="721" y="406" type="line"/>
     </contour>
     <contour>
       <point x="676" y="213" type="curve"/>
@@ -34,11 +34,17 @@ cid11909
       <point x="253" y="144"/>
       <point x="139" y="58"/>
       <point x="36" y="8" type="curve"/>
-      <point x="72" y="-17"/>
+      <point x="72" y="-16"/>
       <point x="128" y="-64"/>
       <point x="160" y="-96" type="curve"/>
-      <point x="263" y="-37"/>
-      <point x="381" y="57"/>
+      <point x="264" y="-37"/>
+      <point x="382" y="57"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-06 16:22:50 +0000</string>
+    </dict>
+  </lib>
 </glyph>
