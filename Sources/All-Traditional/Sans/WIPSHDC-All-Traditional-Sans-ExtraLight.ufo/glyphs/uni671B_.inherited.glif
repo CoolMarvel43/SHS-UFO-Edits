@@ -18,14 +18,14 @@ cid20734
       <point x="594" y="764" type="line"/>
     </contour>
     <contour>
-      <point x="842" y="638" type="line"/>
+      <point x="840" y="638" type="line"/>
       <point x="842" y="668" type="line"/>
       <point x="585" y="668" type="line"/>
       <point x="585" y="638" type="line"/>
     </contour>
     <contour>
-      <point x="834" y="511" type="line"/>
-      <point x="834" y="540" type="line"/>
+      <point x="831" y="511" type="line"/>
+      <point x="833" y="540" type="line"/>
       <point x="561" y="540" type="line"/>
       <point x="561" y="511" type="line"/>
     </contour>
@@ -132,4 +132,10 @@ cid20734
       <point x="688" y="271"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-01 12:32:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

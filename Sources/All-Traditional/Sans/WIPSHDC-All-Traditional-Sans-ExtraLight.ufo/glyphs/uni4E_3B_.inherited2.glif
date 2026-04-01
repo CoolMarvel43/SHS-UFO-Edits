@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4E3B.inherited2" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+cid09587
+</note>
+  <outline>
+    <contour>
+      <point x="892" y="560" type="line"/>
+      <point x="892" y="590" type="line"/>
+      <point x="111" y="590" type="line"/>
+      <point x="111" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="857" y="274" type="line"/>
+      <point x="857" y="304" type="line"/>
+      <point x="150" y="304" type="line"/>
+      <point x="150" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="944" y="-34" type="line"/>
+      <point x="944" y="-5" type="line"/>
+      <point x="61" y="-5" type="line"/>
+      <point x="61" y="-34" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="-18" type="line"/>
+      <point x="514" y="574" type="line"/>
+      <point x="484" y="574" type="line"/>
+      <point x="484" y="-18" type="line"/>
+    </contour>
+    <contour>
+      <point x="718" y="755" type="line"/>
+      <point x="718" y="785" type="line"/>
+      <point x="279" y="785" type="line"/>
+      <point x="279" y="755" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-01 12:48:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

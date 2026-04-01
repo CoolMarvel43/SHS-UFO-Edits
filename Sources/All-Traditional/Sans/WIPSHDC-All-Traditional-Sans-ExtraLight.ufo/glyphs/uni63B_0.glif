@@ -20,8 +20,8 @@ cid19186
     </contour>
     <contour>
       <point x="309" y="550" type="line"/>
-      <point x="52" y="550" type="line"/>
-      <point x="52" y="521" type="line"/>
+      <point x="62" y="550" type="line"/>
+      <point x="62" y="521" type="line"/>
       <point x="309" y="521" type="line"/>
     </contour>
     <contour>
@@ -173,4 +173,10 @@ cid19186
       <point x="527" y="760" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-01 12:32:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

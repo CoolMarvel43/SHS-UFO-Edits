@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5433" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5433"/>
+  <note>
+cid12040
+</note>
+  <outline>
+    <contour>
+      <point x="958" y="131" type="line"/>
+      <point x="958" y="263" type="line"/>
+      <point x="44" y="263" type="line"/>
+      <point x="44" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="188" type="line"/>
+      <point x="834" y="460" type="line"/>
+      <point x="265" y="460" type="line"/>
+      <point x="265" y="757" type="line"/>
+      <point x="118" y="757" type="line"/>
+      <point x="118" y="330" type="line"/>
+      <point x="686" y="330" type="line"/>
+      <point x="686" y="188" type="line"/>
+    </contour>
+    <contour>
+      <point x="706" y="623" type="line"/>
+      <point x="468" y="623" type="line"/>
+      <point x="468" y="690" type="line"/>
+      <point x="706" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="852" y="500" type="line"/>
+      <point x="852" y="812" type="line"/>
+      <point x="331" y="812" type="line"/>
+      <point x="331" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="345" type="curve"/>
+      <point x="415" y="345" type="line"/>
+      <point x="402" y="145"/>
+      <point x="382" y="68"/>
+      <point x="22" y="24" type="curve"/>
+      <point x="47" y="-6"/>
+      <point x="78" y="-61"/>
+      <point x="87" y="-97" type="curve"/>
+      <point x="496" y="-35"/>
+      <point x="543" y="89"/>
+    </contour>
+    <contour>
+      <point x="584" y="198" type="curve"/>
+      <point x="445" y="179" type="line"/>
+      <point x="523" y="-1"/>
+      <point x="635" y="-76"/>
+      <point x="891" y="-99" type="curve"/>
+      <point x="909" y="-57"/>
+      <point x="946" y="5"/>
+      <point x="977" y="36" type="curve"/>
+      <point x="756" y="42"/>
+      <point x="639" y="86"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-01 12:48:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

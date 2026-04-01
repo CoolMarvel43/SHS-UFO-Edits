@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8E87.MN" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+cid39526
+</note>
+  <outline>
+    <contour>
+      <point x="251" y="593" type="line"/>
+      <point x="181" y="593" type="line"/>
+      <point x="181" y="702" type="line"/>
+      <point x="251" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="476" type="line"/>
+      <point x="374" y="820" type="line"/>
+      <point x="66" y="820" type="line"/>
+      <point x="66" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="67" type="line"/>
+      <point x="300" y="522" type="line"/>
+      <point x="185" y="522" type="line"/>
+      <point x="185" y="67" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="616" type="line"/>
+      <point x="622" y="855" type="line"/>
+      <point x="493" y="855" type="line"/>
+      <point x="493" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="674" y="381" type="line"/>
+      <point x="674" y="651" type="line"/>
+      <point x="542" y="651" type="line"/>
+      <point x="542" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="860" y="616" type="line"/>
+      <point x="860" y="855" type="line"/>
+      <point x="731" y="855" type="line"/>
+      <point x="731" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="42" type="line"/>
+      <point x="161" y="416" type="line"/>
+      <point x="55" y="416" type="line"/>
+      <point x="55" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="91" type="curve"/>
+      <point x="42" y="-43" type="line"/>
+      <point x="145" y="-20"/>
+      <point x="278" y="8"/>
+      <point x="400" y="36" type="curve"/>
+      <point x="388" y="159" type="line"/>
+      <point x="255" y="133"/>
+      <point x="113" y="106"/>
+    </contour>
+    <contour>
+      <point x="380" y="247" type="line"/>
+      <point x="380" y="369" type="line"/>
+      <point x="244" y="369" type="line"/>
+      <point x="244" y="247" type="line"/>
+    </contour>
+    <contour>
+      <point x="967" y="682" type="line"/>
+      <point x="967" y="793" type="line"/>
+      <point x="390" y="793" type="line"/>
+      <point x="390" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="780" y="480" type="line"/>
+      <point x="780" y="588" type="line"/>
+      <point x="419" y="588" type="line"/>
+      <point x="419" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="975" y="319" type="line"/>
+      <point x="975" y="431" type="line"/>
+      <point x="389" y="431" type="line"/>
+      <point x="389" y="319" type="line"/>
+    </contour>
+    <contour>
+      <point x="850" y="61" type="line"/>
+      <point x="850" y="148" type="line"/>
+      <point x="566" y="148" type="line"/>
+      <point x="566" y="61" type="line"/>
+    </contour>
+    <contour>
+      <point x="855" y="-74" type="line"/>
+      <point x="855" y="25" type="line"/>
+      <point x="562" y="25" type="line"/>
+      <point x="562" y="-74" type="line"/>
+    </contour>
+    <contour>
+      <point x="957" y="577" type="curve"/>
+      <point x="838" y="624" type="line"/>
+      <point x="733" y="443"/>
+      <point x="547" y="291"/>
+      <point x="347" y="205" type="curve"/>
+      <point x="372" y="179"/>
+      <point x="413" y="123"/>
+      <point x="429" y="95" type="curve"/>
+      <point x="634" y="199"/>
+      <point x="833" y="371"/>
+    </contour>
+    <contour>
+      <point x="922" y="-92" type="line"/>
+      <point x="922" y="280" type="line"/>
+      <point x="494" y="280" type="line"/>
+      <point x="494" y="-95" type="line"/>
+      <point x="621" y="-95" type="line"/>
+      <point x="621" y="181" type="line"/>
+      <point x="788" y="181" type="line"/>
+      <point x="788" y="-92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-01 12:48:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>
