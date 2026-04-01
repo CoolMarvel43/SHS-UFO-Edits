@@ -6,7 +6,7 @@
 
 *For alternate CL forms, it has horizontal variant forms for the 辛 component (covering 3Type Edu + Trad forms), supporting 亥, 龍, 意, 童, 戠, 章, 竟, 競, 帝, 啇, 郎, 朗, 親, 良, 朗/郞 and 音 (not 妾, 旁, 辛 (except for the base character), because they were not commonly seen). A lot of them are borrowed from Chiukong Gothic and adjusted for better proportions. Also includes horizontal stroke variants of 主 and 永, but only the most common characters.*
 
-*In addition, there are modern forms for 害, 臽, 爭, 者 (not all of them for 者 as some characters will be handled in the [Missing JP](Sources/Missing-JP-Glyphs) repository instead due to the lack of JP glyphs in the vanilla font) and 屯, and some characters that are better optimised for Chinese (to fix a few component inconsistencies with Adobe-Japan1 characters), for example, the 吳 and 幾 component. Also, a few off-scope characters are included, especially the [taito kanji](https://en.wikipedia.org/wiki/Taito_%28kanji%29) (with the horizontal 龍 version).*
+*In addition, there are modern forms for 害, 臽, 爭, 者 (not all of them for 者 as some characters will be handled in the [Missing JP](/../../Sources/Missing-JP-Glyphs) repository instead due to the lack of JP glyphs in the vanilla font) and 屯, and some characters that are better optimised for Chinese (to fix a few component inconsistencies with Adobe-Japan1 characters), for example, the 吳 and 幾 component. Also, a few off-scope characters are included, especially the [taito kanji](https://en.wikipedia.org/wiki/Taito_%28kanji%29) (with the horizontal 龍 version).*
 
 *The glyph list isn't updated for the time being as it is being revamped to make it easier to document changes. There are now more than 1000 unique glyphs (1089 to be exact) in this repository. In addition, a glyph policy document is being written so as to prevent any more unnecessary glyph renames due to not researching properly.*
 
@@ -14,9 +14,9 @@
 
 | Glyph name         | Character    | Notes                                                                                                                                                                                        |
 | ------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| uni35D6.MN         | 㗖            | Less common HKSCS character. Modified from glyph in [V1 Revival](Sources/V1-Revival) repository |
-| uni4930.MN         | 䤰            | Less common HKSCS character. Modified from glyph in [V1 Revival](Sources/V1-Revival) repository |
-| uni4C07.MN         | 䰇            | Less common HKSCS character. Modified from glyph in [V1 Revival](Sources/V1-Revival) repository |
+| uni35D6.MN         | 㗖            | Less common HKSCS character. Modified from glyph in [V1 Revival](/../../Sources/V1-Revival) repository |
+| uni4930.MN         | 䤰            | Less common HKSCS character. Modified from glyph in [V1 Revival](/../../Sources/V1-Revival) repository |
+| uni4C07.MN         | 䰇            | Less common HKSCS character. Modified from glyph in [V1 Revival](/../../Sources/V1-Revival) repository |
 | uni4E3B.inherited2 | 主            | Uncommon horizontal stroke variant of 主                                                                                                                                                      |
 | uni4EA5.CL1        | 亥            | Horizontal stroke variant of 亥                                                                                                                                                               |
 | uni4F4F.inherited2 | 住            | Uncommon horizontal stroke variant of 主                                                                                                                                                      |
@@ -172,7 +172,7 @@
 | u21075             | 𡁵           | jf7000 Cantonese character                                                                                                                                                                   |
 | u2348D             | 𣒍           | Macao SCS character                                                                                                                                                                          |
 | u282E2             | 𨋢           | jf7000 Cantonese character, but with 立 redesigned so that the third bending stroke does not touch the bottom horizontal stroke.                                                              |
-| u2F8B2 **(CJK Compatibility Ideograph)** | 成 | Redesigned the u2F8B2-JP glyph to match the design of the uni6210 glyph in the [Missing JP](Sources/Missing-JP-Glyphs) repository. It is a **CJK Compatibility Ideograph** due to Source Separation Rule, however, it is also mapped to U+6210 in the source and font files. |
+| u2F8B2 **(CJK Compatibility Ideograph)** | 成 | Redesigned the u2F8B2-JP glyph to match the design of the uni6210 glyph in the [Missing JP](/../../Sources/Missing-JP-Glyphs) repository. It is a **CJK Compatibility Ideograph** due to Source Separation Rule, however, it is also mapped to U+6210 in the source and font files. |
 | u3106C.CL1         | 𱁬 (⿳雲⿲雲龍雲龖) | Off-scope [taito](https://en.wikipedia.org/wiki/Taito_%28kanji%29) character, with the horizontal stroke version of the 龍 component                                                          |
 
 ### Glyphs modified
