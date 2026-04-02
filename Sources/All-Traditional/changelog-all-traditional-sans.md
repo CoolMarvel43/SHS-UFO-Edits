@@ -176,7 +176,7 @@
 | u2348D             | 𣒍           | Macao SCS character                                                                                                                                                                          |
 | u282E2             | 𨋢           | jf7000 Cantonese character, but with 立 redesigned so that the third bending stroke does not touch the bottom horizontal stroke.                                                              |
 | u3106C.CL1         | 𱁬 (⿳雲⿲雲龍雲龖) | Off-scope [taito](https://en.wikipedia.org/wiki/Taito_%28kanji%29) character, with the horizontal stroke version of the 龍 component                                                          |
-| u2F8B2 **(CJK Compatibility Ideograph)** | 成 | Redesigned the u2F8B2-JP glyph to match the design of the uni6210 glyph in the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository. It is a **CJK Compatibility Ideograph** due to Source Separation Rule, however, it is also mapped to U+6210 in the source and font files. |
+| u2F8B2 **(CJK Compatibility Ideograph)** | 成 | Redesigned the u2F8B2-JP glyph to match the design of the uni6210 glyph in the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository. It is a **CJK Compatibility Ideograph** due to Source Separation Rule, however, it is also mapped to U+6210 in the source and font files. |
 
 ### Glyphs modified
 
