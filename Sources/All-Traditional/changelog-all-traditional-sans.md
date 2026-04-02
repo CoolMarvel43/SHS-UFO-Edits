@@ -6,9 +6,11 @@
 
 *For alternate CL forms, it has horizontal variant forms for the 辛 component (covering 3Type Edu + Trad forms), supporting 亥, 龍, 意, 童, 戠, 章, 竟, 競, 帝, 啇, 郎, 朗, 親, 良, 朗/郞 and 音 (not 妾, 旁, 辛 (except for the base character), because they were not commonly seen). A lot of them are borrowed from Chiukong Gothic and adjusted for better proportions. Also includes horizontal stroke variants of 主 and 永, but only the most common characters.*
 
-*In addition, there are modern forms for 害, 臽, 爭, 者 (not all of them for 者 as some characters will be handled in the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository instead due to the lack of JP glyphs in the vanilla font) and 屯, and some characters that are better optimised for Chinese (to fix a few component inconsistencies with Adobe-Japan1 characters), for example, the 吳 and 幾 component. Also, a few off-scope characters are included, especially the [taito kanji](https://en.wikipedia.org/wiki/Taito_%28kanji%29) (with the horizontal 龍 version).*
+*In addition, there are modern forms for 害, 臽, 爭, 者 (not all of them for 者 as some characters will be handled in the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository instead due to the lack of JP glyphs in the vanilla font) and 屯, and some characters that are better optimised for Chinese (to fix a few component inconsistencies with Adobe-Japan1 characters), for example, the 吳 and 幾 component. Also, a few off-scope characters are included, especially the [taito kanji](https://en.wikipedia.org/wiki/Taito_%28kanji%29) (with the horizontal 龍 version), because nobody has done this before.*
 
-*The glyph list isn't updated for the time being as it is being revamped to make it easier to document changes. There are now more than 1000 unique glyphs (1089 to be exact) in this repository. In addition, a glyph policy document is being written so as to prevent any more unnecessary glyph renames due to not researching properly.*
+*The glyph list isn't updated for the time being as it is being revamped to make it easier to document changes. There are now more than 1000 unique glyphs (1090 to be exact) in this repository. In addition, a glyph policy document is being written so as to prevent any more unnecessary glyph renames due to not researching properly.*
+
+***UPDATE 2026-04-02:** Forgot uni8C41.CL1 豁 when updating this. Included now.*
 
 ### Glyphs added
 
@@ -124,7 +126,8 @@
 | uni8B0A.MN3        | 謊            | Variant where 亡 is 匸 and there is a split 艹 stroke                                                                                                                                           |
 | uni8B0A.inherited  | 謊            | Variant where 亡 is 匚 and there is a split 艹 stroke                                                                                                                                           |
 | uni8B58.CL1        | 識            | Horizontal stroke variant of 戠                                                                                                                                                               |
-| uni8C41            | 豁            | Variant where the middle of 害 is 丯, but does not touch the bottom 口 component                                                                                                                |
+| uni8C41 | 豁 | Variant where the middle of 害 is 丰 (with the first stroke being a bending 丿 stroke) |
+| uni8C41.CL1 | 豁 | Chiukong Gothic glyph (but using v2.005 sources to match the borrowed glyph). Variant where the middle of 害 is 丯, but does not touch the bottom 口 component |
 | uni8C41.MN3        | 豁            | Variant where the middle of 害 is 龶 (with the first stroke being a bending 丿 stroke)                                                                                                          |
 | uni8D6D.MN         | 赭            |                                                                                                                                                                                              |
 | uni8DEB            | 跫            | Variant where 巩 is ⿹㇈𠂇                                                                                                                                                                      |
@@ -145,7 +148,7 @@
 | uni92D8            | 鋘            | Variant where the bottom 大 part is connected and the left feet in the 𠃑 stroke is removed in the 吳 component, for Universal Design principles                                               |
 | uni931A.MN         | 錚            | Modern variant of 爭, but redesigned to JP-style                                                                                                                                              |
 | uni937A.MN         | 鍺            |                                                                                                                                                                                              |
-| uni93E1.CL1        | 鏡            | Horizontal stroke variant of 竟                                                                                                                                                               |
+| uni93E1.CL1        | 鏡            | Chiukong Gothic glyph (but using v2.005 sources to match the borrowed glyph). Horizontal stroke variant of 竟 |
 | uni9416            | 鐖            | Unified the look of the 幾 component                                                                                                                                                          |
 | uni9418.CL1        | 鐘            | Horizontal stroke variant of 童                                                                                                                                                               |
 | uni94C3            | 铃            | Simplified Chinese character with anachronistic classic forms, by right, it should not exist, but it is part of HKSCS                                                                        |
@@ -172,8 +175,8 @@
 | u21075             | 𡁵           | jf7000 Cantonese character                                                                                                                                                                   |
 | u2348D             | 𣒍           | Macao SCS character                                                                                                                                                                          |
 | u282E2             | 𨋢           | jf7000 Cantonese character, but with 立 redesigned so that the third bending stroke does not touch the bottom horizontal stroke.                                                              |
-| u2F8B2 **(CJK Compatibility Ideograph)** | 成 | Redesigned the u2F8B2-JP glyph to match the design of the uni6210 glyph in the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository. It is a **CJK Compatibility Ideograph** due to Source Separation Rule, however, it is also mapped to U+6210 in the source and font files. |
 | u3106C.CL1         | 𱁬 (⿳雲⿲雲龍雲龖) | Off-scope [taito](https://en.wikipedia.org/wiki/Taito_%28kanji%29) character, with the horizontal stroke version of the 龍 component                                                          |
+| u2F8B2 **(CJK Compatibility Ideograph)** | 成 | Redesigned the u2F8B2-JP glyph to match the design of the uni6210 glyph in the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository. It is a **CJK Compatibility Ideograph** due to Source Separation Rule, however, it is also mapped to U+6210 in the source and font files. |
 
 ### Glyphs modified
 
