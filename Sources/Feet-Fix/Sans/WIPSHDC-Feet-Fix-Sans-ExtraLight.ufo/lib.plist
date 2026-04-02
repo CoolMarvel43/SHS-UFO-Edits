@@ -43,13 +43,21 @@
     <key>public.glyphOrder</key>
     <array>
       <string>uni4E6A</string>
+      <string>uni4FC1</string>
       <string>uni53EA</string>
+      <string>uni609E</string>
+      <string>uni6165</string>
       <string>uni6AA0</string>
       <string>uni76C5</string>
       <string>uni78B0</string>
+      <string>uni7CD9</string>
+      <string>uni7CD9.KR</string>
       <string>uni7F88</string>
       <string>uni898A</string>
+      <string>uni8AA4.E0101</string>
       <string>uni8D77</string>
+      <string>uni8FBF</string>
+      <string>uni9065</string>
       <string>uni93F9</string>
       <string>uni9EB5</string>
       <string>uni9EBA</string>
