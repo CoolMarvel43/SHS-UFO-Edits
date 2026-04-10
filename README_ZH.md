@@ -1,6 +1,6 @@
 # 思源黑體/思源宋體 UFO 編輯
 
-[English](https://github.com/CoolMarvel43/SHS-UFO-Edits) | [中文](README_ZH.md)
+[English](https://github.com/CoolMarvel43/SHS-UFO-Edits) | **[中文](README_ZH.md)**
 
 ### 語言差異條款
 為了方便中文用戶，本提供了機器翻譯版本，但無法確保其準確性。
@@ -8,7 +8,7 @@
 若自述文件的中文版本與英文版本之間有任何衝突，以英文版本為準。不過，為了減少混淆，中文版還是做了一些修改。
 
 ## 關於
-這是一個快速又簡單的儲存庫，用來儲存我對思源黑體/思源宋體的編輯。這些內容以 UFO 和 glyphspackage 格式提供，前者可供大多數字型編輯器讀取，後者則專門用於 Mac 的 Glyphs。來源重疊，適合可變字體，並提供兩種主體，ExtraLight 和 Heavy。
+這是一個快速又簡單的儲存庫，用來儲存我對[思源黑體]((https://github.com/adobe-fonts/source-han-sans))/[思源宋體]((https://github.com/adobe-fonts/source-han-serif)的編輯。這些內容以 UFO 和 glyphspackage 格式提供，前者可供大多數字型編輯器讀取，後者則專門用於 [Mac 的 Glyphs](https://glyphsapp.com/)。來源重疊，適合可變字體，並提供兩種主體，ExtraLight 和 Heavy。
 
 此外，為了方便起見，將提供 OTF 和 TTF 檔案格式，提供所有字重，移除重疊且無提示，但僅包含修改過的字形。它們不是完整的字型，因此不適合作為獨立字型使用。您可以隨意將它們整合到您的衍生字體中。您需要使用字型編輯器來存取未編碼的字形（那些附加了點後綴的字形，如「.MN」、「.CL1」、「.inherited」等）。
 
@@ -67,14 +67,14 @@ Heavy | 1000
 一如往常，來源均依據 SIL 開放字型授權條款授權。
 
 ## 問題
-若有任何設計問題或建議，或任何改善此儲存庫的呈現或組織的想法，您可以在此處提出。
+若有任何設計問題或建議，或任何改善此儲存庫的呈現或組織的想法，您可以在[此處](https://github.com/CoolMarvel43/SHS-UFO-Edits/issues)提出。
 
 ## 特別鳴謝
-- ChiuMing-Neko 的秋空黑體專案。
-- NightFurySL2001 提供了一些支援，還有他的 SHS CID 檢查器網頁工具，讓我可以找到是否存在與僅限陸標字形相似的日文字形。
+- ChiuMing-Neko 的[秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)專案。
+- NightFurySL2001 提供了一些支援，還有他的 [SHS CID 檢查器](https://github.com/NightFurySL2001/shs-cid)網頁工具，讓我可以找到是否存在與僅限陸標字形相似的日文字形。
 - zi.tools (字統網) 節省時間，尋找日文設計的類似組件。
-- ButTaiwan 的源樣/源起黑明體系列，本為此重新設計了「き」和「さ」的假名設計，以便與可變格式一起使用，而且自從 v2 版本以來，本就有了在現代慣用部件寫法上進行設計的想法，當它們與傳統印刷形式一起使用時。
-- Tamcy 提供了 Google Fonts 的昭源字型系列的來源。
-- Ichitenfont 提供了傳承字形參考。
-- GuiWonder，感謝他以「尙古」的名義，為思源黑體/思源宋體快速建立傳統印刷字形的衍生字體。本計畫提高他們的字形品質。
-- IBM 選擇以現代慣用部件寫法格式開發 IBM Plex Sans TC，而非思源黑體的楷化寫法格式。
+- ButTaiwan 的[源樣/源起黑明體系列](https://github.com/ButTaiwan/genyog-font)，本為此重新設計了「き」和「さ」的假名設計，以便與可變格式一起使用，而且自從 v2 版本以來，本就有了在現代慣用部件寫法上進行設計的想法，當它們與傳統印刷形式一起使用時。
+- Tamcy 提供了 Google Fonts 的[昭源](https://github.com/chiron-fonts/chiron-hei-hk-gf)[字型](https://github.com/chiron-fonts/chiron-sung-hk-gf)系列的來源。
+- Ichitenfont 提供了[傳承字形參考](https://github.com/ichitenfont/inheritedglyphs)。
+- GuiWonder，感謝他以「[尙古](https://github.com/GuiWonder/Shanggu)」的名義，為思源黑體/思源宋體快速建立傳統印刷字形的衍生字體。本計畫提高他們的字形品質。
+- IBM 選擇以現代慣用部件寫法格式開發 [IBM Plex Sans TC](https://github.com/IBM/plex)，而非思源黑體的楷化寫法格式。
