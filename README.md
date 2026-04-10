@@ -1,8 +1,8 @@
 # Source Han Sans/Serif UFO Edits
 
-**[English](https://github.com/CoolMarvel43/SHS-UFO-Edits)** | [中文](README_ZH.md)
+**English** | [中文](README_ZH.md)
 
-### Language Discrepancies Clause
+### Language Discrepancy Clause
 If there are differences in meaning between the English version and the Chinese version of the readme, the English version shall prevail. Nevertheless, edits are made to the Chinese version to reduce confusion.
 
 ## About

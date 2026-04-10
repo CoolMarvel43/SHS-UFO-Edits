@@ -1,6 +1,6 @@
 # 思源黑體/思源宋體 UFO 編輯
 
-[English](https://github.com/CoolMarvel43/SHS-UFO-Edits) | **[中文](README_ZH.md)**
+[English](https://github.com/CoolMarvel43/SHS-UFO-Edits) | **中文**
 
 ### 語言差異條款
 為了方便中文用戶，本提供了機器翻譯版本，但無法確保其準確性。
