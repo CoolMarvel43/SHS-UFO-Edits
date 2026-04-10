@@ -8,7 +8,7 @@
 若自述文件的中文版本與英文版本之間有任何衝突，以英文版本為準。不過，為了減少混淆，中文版還是做了一些修改。
 
 ## 關於
-這是一個快速又簡單的儲存庫，用來儲存我對[思源黑體]((https://github.com/adobe-fonts/source-han-sans))/[思源宋體](https://github.com/adobe-fonts/source-han-serif)的編輯。這些內容以 UFO 和 glyphspackage 格式提供，前者可供大多數字型編輯器讀取，後者則專門用於 [Mac 的 Glyphs](https://glyphsapp.com/)。來源重疊，適合可變字體，並提供兩種主體，ExtraLight 和 Heavy。
+這是一個快速又簡單的儲存庫，用來儲存我對[思源黑體](https://github.com/adobe-fonts/source-han-sans)/[思源宋體](https://github.com/adobe-fonts/source-han-serif)的編輯。這些內容以 UFO 和 glyphspackage 格式提供，前者可供大多數字型編輯器讀取，後者則專門用於 [Mac 的 Glyphs](https://glyphsapp.com/)。來源重疊，適合可變字體，並提供兩種主體，ExtraLight 和 Heavy。
 
 此外，為了方便起見，將提供 OTF 和 TTF 檔案格式，提供所有字重，移除重疊且無提示，但僅包含修改過的字形。它們不是完整的字型，因此不適合作為獨立字型使用。您可以隨意將它們整合到您的衍生字體中。您需要使用字型編輯器來存取未編碼的字形（那些附加了點後綴的字形，如「.MN」、「.CL1」、「.inherited」等）。
 
