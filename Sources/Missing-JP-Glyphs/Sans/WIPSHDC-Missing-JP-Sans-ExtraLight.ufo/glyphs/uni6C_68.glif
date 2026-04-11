@@ -7,26 +7,26 @@ cid23084
 </note>
   <outline>
     <contour>
-      <point x="887" y="35" type="line"/>
-      <point x="406" y="35" type="line"/>
-      <point x="406" y="5" type="line"/>
-      <point x="887" y="5" type="line"/>
+      <point x="887" y="18" type="line"/>
+      <point x="406" y="18" type="line"/>
+      <point x="406" y="-12" type="line"/>
+      <point x="887" y="-12" type="line"/>
     </contour>
     <contour>
-      <point x="887" y="398" type="line"/>
-      <point x="406" y="398" type="line"/>
-      <point x="406" y="368" type="line"/>
-      <point x="887" y="368" type="line"/>
+      <point x="887" y="405" type="line"/>
+      <point x="406" y="405" type="line"/>
+      <point x="406" y="375" type="line"/>
+      <point x="887" y="375" type="line"/>
     </contour>
     <contour>
-      <point x="901" y="755" type="line"/>
-      <point x="391" y="755" type="line"/>
-      <point x="391" y="-63" type="line"/>
-      <point x="421" y="-63" type="line"/>
-      <point x="421" y="726" type="line"/>
-      <point x="871" y="726" type="line"/>
-      <point x="871" y="-55" type="line"/>
-      <point x="901" y="-55" type="line"/>
+      <point x="901" y="781" type="line"/>
+      <point x="391" y="781" type="line"/>
+      <point x="391" y="-70" type="line"/>
+      <point x="421" y="-70" type="line"/>
+      <point x="421" y="752" type="line"/>
+      <point x="871" y="752" type="line"/>
+      <point x="871" y="-63" type="line"/>
+      <point x="901" y="-63" type="line"/>
     </contour>
     <contour>
       <point x="115" y="820" type="curve"/>
@@ -59,4 +59,10 @@ cid23084
       <point x="135" y="43"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-11 19:54:51 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni7834" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="7834"/>
+  <note>
+cid28404
+</note>
+  <outline>
+    <contour>
+      <point x="924" y="640" type="line"/>
+      <point x="924" y="670" type="line"/>
+      <point x="470" y="670" type="line"/>
+      <point x="470" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="925" y="670" type="line"/>
+      <point x="919" y="669" type="line"/>
+      <point x="913" y="669" type="line"/>
+      <point x="913" y="661" type="line"/>
+      <point x="898" y="603"/>
+      <point x="876" y="531"/>
+      <point x="857" y="487" type="curve"/>
+      <point x="884" y="480" type="line"/>
+      <point x="904" y="524"/>
+      <point x="926" y="600"/>
+      <point x="945" y="662" type="curve"/>
+    </contour>
+    <contour>
+      <point x="710" y="411" type="line"/>
+      <point x="710" y="830" type="line"/>
+      <point x="680" y="830" type="line"/>
+      <point x="680" y="411" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="425" type="curve" smooth="yes"/>
+      <point x="484" y="670" type="line"/>
+      <point x="455" y="670" type="line"/>
+      <point x="455" y="425" type="line" smooth="yes"/>
+      <point x="455" y="283"/>
+      <point x="440" y="95"/>
+      <point x="334" y="-52" type="curve"/>
+      <point x="340" y="-55"/>
+      <point x="352" y="-64"/>
+      <point x="357" y="-71" type="curve"/>
+      <point x="467" y="81"/>
+      <point x="484" y="278"/>
+    </contour>
+    <contour>
+      <point x="893" y="402" type="line"/>
+      <point x="893" y="431" type="line"/>
+      <point x="465" y="431" type="line"/>
+      <point x="465" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="895" y="433" type="line"/>
+      <point x="888" y="431" type="line"/>
+      <point x="882" y="431" type="line"/>
+      <point x="882" y="424" type="line"/>
+      <point x="814" y="190"/>
+      <point x="625" y="23"/>
+      <point x="453" y="-45" type="curve"/>
+      <point x="459" y="-51"/>
+      <point x="468" y="-63"/>
+      <point x="472" y="-70" type="curve"/>
+      <point x="650" y="5"/>
+      <point x="839" y="173"/>
+      <point x="914" y="424" type="curve"/>
+    </contour>
+    <contour>
+      <point x="538" y="415" type="curve"/>
+      <point x="511" y="406" type="line"/>
+      <point x="587" y="183"/>
+      <point x="741" y="6"/>
+      <point x="943" y="-71" type="curve"/>
+      <point x="948" y="-63"/>
+      <point x="958" y="-51"/>
+      <point x="966" y="-45" type="curve"/>
+      <point x="765" y="25"/>
+      <point x="611" y="200"/>
+    </contour>
+    <contour>
+      <point x="411" y="728" type="line"/>
+      <point x="411" y="758" type="line"/>
+      <point x="53" y="758" type="line"/>
+      <point x="53" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="68" type="line"/>
+      <point x="366" y="466" type="line"/>
+      <point x="147" y="466" type="line"/>
+      <point x="147" y="436" type="line"/>
+      <point x="336" y="436" type="line"/>
+      <point x="336" y="98" type="line"/>
+      <point x="147" y="98" type="line"/>
+      <point x="147" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="744" type="curve"/>
+      <point x="190" y="748" type="line"/>
+      <point x="164" y="556"/>
+      <point x="119" y="376"/>
+      <point x="41" y="257" type="curve"/>
+      <point x="49" y="252"/>
+      <point x="62" y="243"/>
+      <point x="67" y="238" type="curve"/>
+      <point x="144" y="363"/>
+      <point x="191" y="543"/>
+    </contour>
+    <contour>
+      <point x="162" y="-24" type="line"/>
+      <point x="162" y="466" type="line"/>
+      <point x="133" y="466" type="line"/>
+      <point x="133" y="-24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-11 19:54:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,63 @@
 # Changelog for Missing JP Sans
 
+## 2026-04-12 *(v0.009)*
+*This small update includes characters that belong to the 玉, 皿, 石, 竹(𥫗), 米, 罒, 羽 and 耒 radicals, that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han), alongside two characters which have the 者 component. In addition, there are some adjustments to existing glyphs.*
+
+### Glyphs added
+
+| Glyph name | Character | Notes                                                                                                                                                                                       |
+| ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| uni66D9    | 曙         | Glyph is based on the uni66D9uE0101-JP glyph.                                                                                                                                               |
+| uni6E1A    | 渚         | Glyph is based on the uniFA46-JP glyph.                                                                                                                                                     |
+| uni73BB    | 玻         |                                                                                                                                                                                             |
+| uni73E0    | 珠         |                                                                                                                                                                                             |
+| uni7406    | 理         |                                                                                                                                                                                             |
+| uni745E    | 瑞         |                                                                                                                                                                                             |
+| uni7532    | 甲         |                                                                                                                                                                                             |
+| uni754C    | 界         |                                                                                                                                                                                             |
+| uni7591    | 疑         |                                                                                                                                                                                             |
+| uni76DB    | 盛         | Glyph is based on the uni76DBuE0101-JP glyph.                                                                                                                                               |
+| uni76DF    | 盟         | Glyph is based on the uni76DFuE0101-JP glyph.                                                                                                                                               |
+| uni7709    | 眉         |                                                                                                                                                                                             |
+| uni7814    | 研         |                                                                                                                                                                                             |
+| uni7834    | 破         |                                                                                                                                                                                             |
+| uni7845    | 硅         |                                                                                                                                                                                             |
+| uni785D    | 硝         | Glyph is based on the uni785DuE0101-JP glyph.                                                                                                                                               |
+| uni78A7    | 碧         |                                                                                                                                                                                             |
+| uni7981    | 禁         |                                                                                                                                                                                             |
+| uni79D1    | 科         |                                                                                                                                                                                             |
+| uni79DF    | 租         |                                                                                                                                                                                             |
+| uni7A00    | 稀         |                                                                                                                                                                                             |
+| uni7A46    | 穆         |                                                                                                                                                                                             |
+| uni7A57    | 穗         |                                                                                                                                                                                             |
+| uni7B26    | 符         |                                                                                                                                                                                             |
+| uni7B49    | 等         |                                                                                                                                                                                             |
+| uni7B4B    | 筋         |                                                                                                                                                                                             |
+| uni7B52    | 筒         |                                                                                                                                                                                             |
+| uni7B56    | 策         | Bottom component partially taken from a related uni8326-TW (茦) which has elements of the removed v1 uni8326-JP glyph, which in turn can be how the missing uni7B56-JP glyph might look like |
+| uni7B97    | 算         |                                                                                                                                                                                             |
+| uni7BB1    | 箱         |                                                                                                                                                                                             |
+| uni7C4D    | 籍         | Glyph is based on the uni7C4DuE0101-JP glyph.                                                                                                                                               |
+| uni7C89    | 粉         | Glyph is based on the uni7C89uE0101-JP glyph.                                                                                                                                               |
+| uni7C97    | 粗         |                                                                                                                                                                                             |
+| uni7CBE    | 精         | Glyph is based on the uniFA1D-JP glyph.                                                                                                                                                     |
+| uni7CCA    | 糊         |                                                                                                                                                                                             |
+| uni7CDF    | 糟         |                                                                                                                                                                                             |
+| uni7F69    | 罩         |                                                                                                                                                                                             |
+| uni7FFB    | 翻         | Glyph is based on the uni7FFBuE0101-JP glyph.                                                                                                                                               |
+| uni8015    | 耕         | Glyph is based on the uni8015uE0101-JP glyph.                                                                                                                                               |
+| uni8017    | 耗         | Glyph is based on the uni8017uE0101-JP glyph.                                                                                                                                               |
+| uni82FB    | 苻         | The shapes of the 付 component is taken from the uni82FB-TW glyph which has elements of the unreleased JP glyph                                                                              |
+| uni8DEB    | 跫         |                                                                                                                                                                                             |
+
+### Glyphs modified
+
+| Glyph name | Character | Notes                                                                     |
+| ---------- | --------- | ------------------------------------------------------------------------- |
+| uni4E4E    | 乎         | Adjusted design of the top bending 丿 stroke to be more JP-like              |
+| uni67AF    | 枯         | Slightly adjusted spacing between the left 木 radical and the right 古 component in ExtraLight |
+| uni6C68    | 汨         | Adjusted height of 日 component in ExtraLight                              |
+
 ## 2026-03-06 *(v0.008)*
 *This update includes characters that belong to the 木, 水(氵), 火(灬), 犬(犭) and 牛 radicals, that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han). In addition, there are some adjustments to existing glyphs.*
 

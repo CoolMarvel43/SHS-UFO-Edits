@@ -72,10 +72,4 @@ cid22638
       <point x="513" y="382" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-03-06 10:00:45 +0000</string>
-    </dict>
-  </lib>
 </glyph>
