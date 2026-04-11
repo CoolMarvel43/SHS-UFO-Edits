@@ -99,13 +99,13 @@ Should there be a CSV file to define remaps for every Unicode character, any out
 
 To avoid confusion, the production names of the glyphs do not follow what is in the [AI0-SourceHanSans](https://github.com/adobe-fonts/source-han-sans/blob/release/Resources/AI0-SourceHanSans) or [AI0-SourceHanSerif](https://github.com/adobe-fonts/source-han-serif/blob/release/Resources/AI0-SourceHanSerif) files.
 
-Here are a list of glyph suffixes. Classic will be the default glyph shape, so generally there is no suffix. The suffixes are also prepended by a period rather than dashes.
+Here are a list of glyph suffixes. Classic will be the default glyph shape, so generally there is no suffix. The suffixes are also prepended by a period rather than dashes. However, code points strictly follow Unicode's Source Separation Rule, so some modern forms (e.g. 值 vs 値, 俞 vs 兪, etc.) will be encoded by default because they are in different code points, even if the non-unified characters have essentially the same meaning.
 
 - uniXXXX<span>.</span>CL1/CL1a/CL1b - Alternate classical glyph shape that is also commonplace. To avoid naming confusion, more than one form will be appended with "a" or "b" if needed.
 - uniXXXX<span>.</span>MN/MN1/MN2 - Modern forms, following the above conventions about which type it is. "MN1a" and "MN1b" may be used if there is more than one form of the same type. If there is one form that can be shared between different types, it may only be appended as ".MN".
 - uniXXXX<span>.</span>inherited - Glyph shapes that follow the [Inherited Glyph standard](https://github.com/ichitenfont/inheritedglyphs) and may not appear in mid-20th century prints.
 - uniXXXX<span>.</span>inherited2 - Glyph shapes that follow an alternate and acceptable variant form of Inherited Glyphs.
-- uniXXXX<span>.</span>JP *(will be of low priority)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media.
+- uniXXXX<span>.</span>JP *(will be of low priority)* - Any glyph that follows v1 JP in Source Han Serif but has never appeared in Sans at all, and furthermore is not seen in old Chinese-language printed media. The glyph shapes follow the Moji-Joho-Kiban (文字情報基盤) character set developed by Japan's IPA (Information-technology Promotion Agency, 独立行政法人情報処理推進機構), for which again some forms may not be suitable for Chinese use (whether CL or MN forms). If needed be, it will be spun off into its own folder in the near future, so the focus can be better put to optimising Chinese locales.
 - uniXXXX<span>.</span>alt1/alt2 - Any other form that does not belong to CL, MN or JP forms, and is merely only a stylistic difference.
 
 ## List of glyphs available
