@@ -1,4 +1,4 @@
-# 思源黑體/思源宋體 UFO 編輯
+# Source Han Sans/Serif UFO Edits（思源黑體/思源宋體 UFO 編輯）
 
 [English](https://github.com/CoolMarvel43/SHS-UFO-Edits) | **中文**
 
