@@ -10,6 +10,8 @@ Simplified characters may not be included (however, an exception would be the tw
 
 There are two categories of Traditional Chinese orthography, each divided into sub-categories due to the varying degrees of stroke differences in various fonts.
 
+For more details on how the glyph orthographies should look like, read the [glyph policy](glyph-policy.md).
+
 ### Classic Forms (CL)
 
 It goes by several names (in English) including **traditional orthography**, **old forms**, **old character shape** (Simplified Chinese: 旧字形; Traditional Chinese: 舊字形), **inherited glyphs** (Simplified Chinese: 传承字形; Traditional Chinese: 傳承字形), **kyūjitai** (Japanese: 旧字体/舊字體) and so on.

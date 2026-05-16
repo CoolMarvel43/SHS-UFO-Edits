@@ -54,8 +54,8 @@ cid61232
     </contour>
     <contour>
       <point x="688" y="632" type="line"/>
-      <point x="688" y="822" type="line"/>
-      <point x="659" y="822" type="line"/>
+      <point x="688" y="830" type="line"/>
+      <point x="659" y="830" type="line"/>
       <point x="659" y="632" type="line"/>
     </contour>
     <contour>
@@ -91,4 +91,10 @@ cid61232
       <point x="388" y="-18" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-16 05:47:04 +0000</string>
+    </dict>
+  </lib>
 </glyph>

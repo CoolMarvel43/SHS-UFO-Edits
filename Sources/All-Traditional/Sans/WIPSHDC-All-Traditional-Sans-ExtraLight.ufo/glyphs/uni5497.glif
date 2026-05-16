@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5497" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5497"/>
+  <note>
+cid12183
+</note>
+  <outline>
+    <contour>
+      <point x="947" y="596" type="line"/>
+      <point x="947" y="625" type="line"/>
+      <point x="369" y="625" type="line"/>
+      <point x="369" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="927" y="331" type="line"/>
+      <point x="927" y="361" type="line"/>
+      <point x="517" y="361" type="line"/>
+      <point x="517" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="950" y="-38" type="line"/>
+      <point x="950" y="-9" type="line"/>
+      <point x="436" y="-9" type="line"/>
+      <point x="436" y="-38" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="-21" type="line"/>
+      <point x="721" y="350" type="line"/>
+      <point x="692" y="350" type="line"/>
+      <point x="692" y="-21" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="826" type="curve"/>
+      <point x="598" y="830" type="line"/>
+      <point x="547" y="503"/>
+      <point x="463" y="228"/>
+      <point x="293" y="54" type="curve"/>
+      <point x="300" y="49"/>
+      <point x="313" y="39"/>
+      <point x="318" y="34" type="curve"/>
+      <point x="488" y="217"/>
+      <point x="573" y="487"/>
+    </contour>
+    <contour>
+      <point x="331" y="199" type="line"/>
+      <point x="331" y="721" type="line"/>
+      <point x="98" y="721" type="line"/>
+      <point x="98" y="692" type="line"/>
+      <point x="302" y="692" type="line"/>
+      <point x="302" y="229" type="line"/>
+      <point x="98" y="229" type="line"/>
+      <point x="98" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="117" type="line"/>
+      <point x="113" y="721" type="line"/>
+      <point x="84" y="721" type="line"/>
+      <point x="84" y="117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-16 05:48:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>
