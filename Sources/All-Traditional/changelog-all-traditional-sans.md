@@ -8,7 +8,7 @@
 
 *And finally Extension B (and higher) characters for jf7000 Naming are also included, and some miscellaneous fixes and additions.*
 
-*Also, uni5C58 is checked to be an visually unmodified glyph from Chiukong Gothic, so it will be marked with 🟣, even if there are manual node fixes (due to minor technical issues when importing Chiukong Gothic's sources into Glyphs).*
+*Also of note, uni5C58 (屘) is checked to be an visually unmodified glyph from Chiukong Gothic, so it will now be marked with 🟣, even if there are manual node fixes (due to minor technical issues when importing Chiukong Gothic's sources into Glyphs).*
 
 *The glyph list still isn't updated for the time being as I do not have much time for my project nowadays, however, it will be done by June, maybe separate from any repository update. There are 1205 glyphs in this repository.*
 
