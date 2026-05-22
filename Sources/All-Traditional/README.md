@@ -118,6 +118,7 @@ Here are a list of glyph suffixes. Classic will be the default glyph shape, so g
 ## Changelog
 
 - [Sans](changelog-all-traditional-sans.md)
+- [Serif](changelog-all-traditional-serif.md)
 
 ## PDF Preview
 

@@ -6,10 +6,14 @@
     <string>_notdef.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>u2348D</key>
+    <string>u2348D_.glif</string>
     <key>u270FD</key>
     <string>u270F_D_.glif</string>
     <key>u270FD.inherited</key>
     <string>u270F_D_.inherited.glif</string>
+    <key>u3106C.CL1</key>
+    <string>u3106C_.C_L_1.glif</string>
     <key>uni4E49</key>
     <string>uni4E_49.glif</string>
     <key>uni4FC1</key>
@@ -70,6 +74,8 @@
     <string>uni7C_B_5.glif</string>
     <key>uni7DD4</key>
     <string>uni7D_D_4.glif</string>
+    <key>uni7DD4.MN</key>
+    <string>uni7D_D_4.M_N_.glif</string>
     <key>uni85AA.CL1</key>
     <string>uni85A_A_.C_L_1.glif</string>
     <key>uni85AA.inherited</key>

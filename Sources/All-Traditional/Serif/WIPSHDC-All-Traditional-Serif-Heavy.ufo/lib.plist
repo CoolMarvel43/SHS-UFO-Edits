@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3343</string>
+    <string>3436</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -72,6 +72,7 @@
       <string>uni7684</string>
       <string>uni7CB5</string>
       <string>uni7DD4</string>
+      <string>uni7DD4.MN</string>
       <string>uni85AA.CL1</string>
       <string>uni85AA.inherited</string>
       <string>uni8921.inherited</string>
@@ -81,8 +82,10 @@
       <string>uni92D8</string>
       <string>uni93A6</string>
       <string>uni97F9.CL1</string>
+      <string>u2348D</string>
       <string>u270FD</string>
       <string>u270FD.inherited</string>
+      <string>u3106C.CL1</string>
       <string>space</string>
       <string>.notdef</string>
     </array>

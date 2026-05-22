@@ -232,10 +232,4 @@ cid42010
       <point x="841" y="401" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-10-04 17:50:48 +0000</string>
-    </dict>
-  </lib>
 </glyph>
