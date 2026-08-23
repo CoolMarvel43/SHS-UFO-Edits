@@ -6,7 +6,7 @@
 
 *This update will be the final time I will include minor design fixes for existing JP/KR glyphs, as the Feet Fix repository will be renamed to "Design Fix" (which also means any future minor fixes for Serif glyphs which can still potentially fit within the official SHSerif regional glyph policy will also be included). Expect some glyphs to be removed from this subfolder and migrated there in the next 0.009 update.*
 
-*The glyph list still isn't updated again due to lack of time. There are 1335 glyphs in this repository.*
+*The glyph list still isn't updated again due to lack of time. There are 1333 glyphs in this repository.*
 
 ### Glyphs added
 
