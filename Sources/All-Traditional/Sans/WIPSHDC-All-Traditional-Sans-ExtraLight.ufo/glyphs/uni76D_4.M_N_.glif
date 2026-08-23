@@ -80,16 +80,22 @@ cid27829
       <point x="593" y="499"/>
     </contour>
     <contour>
-      <point x="333" y="832" type="curve"/>
-      <point x="303" y="837" type="line"/>
-      <point x="274" y="641"/>
-      <point x="190" y="491"/>
-      <point x="48" y="393" type="curve"/>
-      <point x="56" y="389"/>
-      <point x="67" y="380"/>
-      <point x="72" y="376" type="curve"/>
-      <point x="216" y="475"/>
-      <point x="300" y="634"/>
+      <point x="313" y="828" type="curve"/>
+      <point x="283" y="831" type="line"/>
+      <point x="259" y="621"/>
+      <point x="175" y="450"/>
+      <point x="48" y="353" type="curve"/>
+      <point x="56" y="348"/>
+      <point x="66" y="339"/>
+      <point x="71" y="333" type="curve"/>
+      <point x="200" y="435"/>
+      <point x="287" y="613"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-22 19:06:52 +0000</string>
+    </dict>
+  </lib>
 </glyph>

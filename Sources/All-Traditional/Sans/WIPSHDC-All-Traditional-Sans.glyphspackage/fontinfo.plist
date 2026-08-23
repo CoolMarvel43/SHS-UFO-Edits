@@ -53,7 +53,7 @@ value = (
 );
 }
 );
-date = "2026-05-16 04:18:35 +0000";
+date = "2026-08-22 19:07:23 +0000";
 familyName = "WIPSHDC-All-Traditional-Sans";
 fontMaster = (
 {
@@ -208,7 +208,7 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = ExtraLight;
-weightClass = 200;
+weightClass = 250;
 },
 {
 axesValues = (
@@ -335,5 +335,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 7;
+versionMinor = 8;
 }

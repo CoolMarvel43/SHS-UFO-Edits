@@ -99,32 +99,38 @@ cid17030
       <point x="982" y="582" type="curve"/>
     </contour>
     <contour>
-      <point x="533" y="315" type="line"/>
-      <point x="533" y="396" type="line"/>
-      <point x="331" y="396" type="line"/>
-      <point x="331" y="315" type="line"/>
+      <point x="533" y="310" type="line"/>
+      <point x="533" y="388" type="line"/>
+      <point x="331" y="388" type="line"/>
+      <point x="331" y="310" type="line"/>
     </contour>
     <contour>
-      <point x="614" y="543" type="line"/>
+      <point x="614" y="531" type="line"/>
       <point x="614" y="635" type="line"/>
       <point x="237" y="635" type="line"/>
-      <point x="237" y="543" type="line"/>
+      <point x="237" y="531" type="line"/>
     </contour>
     <contour>
       <point x="595" y="193" type="line"/>
-      <point x="595" y="516" type="line"/>
-      <point x="322" y="516" type="line"/>
-      <point x="322" y="426" type="line"/>
-      <point x="469" y="426" type="line"/>
-      <point x="469" y="283" type="line"/>
-      <point x="322" y="283" type="line"/>
+      <point x="595" y="503" type="line"/>
+      <point x="322" y="503" type="line"/>
+      <point x="322" y="417" type="line"/>
+      <point x="469" y="417" type="line"/>
+      <point x="469" y="279" type="line"/>
+      <point x="322" y="279" type="line"/>
       <point x="322" y="193" type="line"/>
     </contour>
     <contour>
       <point x="381" y="20" type="line"/>
-      <point x="381" y="516" type="line"/>
-      <point x="258" y="516" type="line"/>
+      <point x="381" y="503" type="line"/>
+      <point x="258" y="503" type="line"/>
       <point x="258" y="20" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-22 19:06:52 +0000</string>
+    </dict>
+  </lib>
 </glyph>
