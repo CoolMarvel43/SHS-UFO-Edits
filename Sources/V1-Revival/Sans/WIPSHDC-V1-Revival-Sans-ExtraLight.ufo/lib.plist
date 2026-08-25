@@ -42,6 +42,7 @@
     <false/>
     <key>public.glyphOrder</key>
     <array>
+      <string>uni3441</string>
       <string>uni35C1</string>
       <string>uni35D6</string>
       <string>uni37FB</string>
@@ -49,6 +50,7 @@
       <string>uni38C3</string>
       <string>uni399B</string>
       <string>uni3A17</string>
+      <string>uni3A3B</string>
       <string>uni3ABD</string>
       <string>uni3B0A</string>
       <string>uni3B55</string>
@@ -145,6 +147,7 @@
       <string>uni5E42</string>
       <string>uni5E59</string>
       <string>uni5E60</string>
+      <string>uni5E60.CN</string>
       <string>uni5EB4</string>
       <string>uni5F52</string>
       <string>uni5FE7</string>
@@ -192,6 +195,7 @@
       <string>uni6E61</string>
       <string>uni6F1C</string>
       <string>uni6F55</string>
+      <string>uni6F55.CN</string>
       <string>uni6F79</string>
       <string>uni6FAB</string>
       <string>uni6FBF</string>

@@ -6,6 +6,8 @@
     <string>_notdef.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>uni3441</key>
+    <string>uni3441.glif</string>
     <key>uni35C1</key>
     <string>uni35C_1.glif</string>
     <key>uni35D6</key>
@@ -20,6 +22,8 @@
     <string>uni399B_.glif</string>
     <key>uni3A17</key>
     <string>uni3A_17.glif</string>
+    <key>uni3A3B</key>
+    <string>uni3A_3B_.glif</string>
     <key>uni3ABD</key>
     <string>uni3A_B_D_.glif</string>
     <key>uni3B0A</key>
@@ -212,6 +216,8 @@
     <string>uni5E_59.glif</string>
     <key>uni5E60</key>
     <string>uni5E_60.glif</string>
+    <key>uni5E60.CN</key>
+    <string>uni5E_60.C_N_.glif</string>
     <key>uni5EB4</key>
     <string>uni5E_B_4.glif</string>
     <key>uni5F52</key>
@@ -306,6 +312,8 @@
     <string>uni6F_1C_.glif</string>
     <key>uni6F55</key>
     <string>uni6F_55.glif</string>
+    <key>uni6F55.CN</key>
+    <string>uni6F_55.C_N_.glif</string>
     <key>uni6F79</key>
     <string>uni6F_79.glif</string>
     <key>uni6FAB</key>

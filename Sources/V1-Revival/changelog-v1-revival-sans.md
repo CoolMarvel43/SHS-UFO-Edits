@@ -1,5 +1,33 @@
 # Changelog for V1 Revival Sans
 
+## 2026-08-26 *(v0.004)*
+
+*This is a refinement update which improves the quality of several JP glyphs for which Iwata did not do a good job, mostly due to imbalanced proportions between radicals and components (placed too close to each other, leaving insufficient breathing room).*
+
+*Also includes two new characters which are part of the jf7000 character set (Taiwan) for which they once had a v1 JP glyph, and two separate "CN" versions of the characters with the 無 component, for which the original v1 JP glyphs followed CN forms (basically the bottom horizontal stroke is the longest instead of the middle one) more than the official JP forms defined by Adobe. Still, they are not 100% recreations of the original glyph.*
+
+### Glyphs added
+
+| Glyph name | Character | Notes                                                                                                                                                                                                                                               |
+| ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| uni3441    | 㑁         | Part of jf7000 Taiwan, however, this glyph is redesigned and does not follow the original v1 JP glyph because the proportions are not well done |
+| uni3A3B    | 㨻         | Part of jf7000 Taiwan                                                                                                                                                                                                                               |
+| uni5E60.CN | 幠         | The original v1 uni5E60-JP glyph (Chiukong Gothic glyph was used as the base, with slight adjustments made) is coincidentally suitable for Mainland China conventions, so it is included alongside the adjusted uni8144 (in this repository) glyph. |
+| uni6F55.CN | 潕         | The original v1 uni6F55-JP glyph (with very slight adjustment in Heavy) is coincidentally suitable for Mainland China conventions, so it is included alongside the adjusted uni8144 (in this repository) glyph.                                     |
+
+### Glyphs modified
+
+| Glyph name | Character | Reason |
+| ---------- | --------- | --------------------------------------------------------------------------------------------------------------- |
+| uni568E    | 嚎         | Raised the height of the 口 radical to make it look more consistent with other Adobe-designed JP glyphs in Heavy |
+| uni61F1    | 懱         | Redesigned glyph referencing the TW glyph while keeping JP shapes                                               |
+| uni63DE    | 揞         | Adjusted proportions of components                                                                              |
+| uni715F    | 煟         | Adjusted proportions of components                                                                              |
+| uni7181    | 熁         | Adjusted proportions of components                                                                              |
+| uni71BD    | 熽         | Adjusted proportions of components                                                                              |
+| uni81D0    | 臐         | Adjusted the left 月 radical for better balance                                                                  |
+| uni8319    | 茙         | Redesigned glyph referencing the TW glyph while keeping JP shapes                                               |
+
 ## 2026-01-16 *(v0.003)*
 
 *No major change, just one quick update, so version number stays the same for now.*
