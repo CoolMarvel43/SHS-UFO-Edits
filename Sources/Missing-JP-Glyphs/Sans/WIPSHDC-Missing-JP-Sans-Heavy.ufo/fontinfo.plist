@@ -12,8 +12,6 @@
     <integer>-120</integer>
     <key>familyName</key>
     <string>WIPSHDC-Missing-JP-Sans</string>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/04/11 20:01:38</string>
     <key>openTypeHheaAscender</key>
@@ -26,8 +24,6 @@
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Heavy</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -77,11 +73,9 @@
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>WIPSHDC-Missing-JP-Sans-Heavy</string>
+    <string>WIPSHDCMissingJPSans-Heavy</string>
     <key>postscriptUnderlinePosition</key>
     <integer>-150</integer>
-    <key>styleMapFamilyName</key>
-    <string>WIPSHDC-Missing-JP-Sans Heavy</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
@@ -91,7 +85,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>9</integer>
+    <integer>10</integer>
     <key>xHeight</key>
     <integer>543</integer>
   </dict>

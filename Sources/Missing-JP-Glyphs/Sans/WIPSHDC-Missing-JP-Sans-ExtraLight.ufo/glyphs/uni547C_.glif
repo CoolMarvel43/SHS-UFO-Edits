@@ -65,12 +65,12 @@ cid12147
       <point x="466" y="566"/>
     </contour>
     <contour>
-      <point x="329" y="218" type="line"/>
-      <point x="329" y="721" type="line"/>
+      <point x="319" y="218" type="line"/>
+      <point x="319" y="721" type="line"/>
       <point x="100" y="721" type="line"/>
       <point x="100" y="692" type="line"/>
-      <point x="300" y="692" type="line"/>
-      <point x="300" y="247" type="line"/>
+      <point x="290" y="692" type="line"/>
+      <point x="290" y="247" type="line"/>
       <point x="100" y="247" type="line"/>
       <point x="100" y="218" type="line"/>
     </contour>

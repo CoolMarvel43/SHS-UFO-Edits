@@ -43,23 +43,23 @@ cid09817
       <point x="571" y="370"/>
     </contour>
     <contour>
-      <point x="156" y="547" type="line"/>
-      <point x="156" y="-95" type="line"/>
-      <point x="304" y="-95" type="line"/>
-      <point x="304" y="691" type="line"/>
-      <point x="302" y="693" type="line"/>
+      <point x="395" y="803" type="curve"/>
+      <point x="250" y="850" type="line"/>
+      <point x="196" y="707"/>
+      <point x="103" y="564"/>
+      <point x="6" y="475" type="curve"/>
+      <point x="33" y="438"/>
+      <point x="76" y="356"/>
+      <point x="91" y="319" type="curve"/>
+      <point x="209" y="436"/>
+      <point x="325" y="627"/>
     </contour>
     <contour>
-      <point x="389" y="804" type="curve"/>
-      <point x="245" y="850" type="line"/>
-      <point x="194" y="709"/>
-      <point x="106" y="567"/>
-      <point x="14" y="479" type="curve"/>
-      <point x="40" y="443"/>
-      <point x="83" y="361"/>
-      <point x="98" y="325" type="curve"/>
-      <point x="212" y="441"/>
-      <point x="322" y="630"/>
+      <point x="156" y="549" type="line"/>
+      <point x="156" y="-94" type="line"/>
+      <point x="300" y="-94" type="line"/>
+      <point x="300" y="689" type="line"/>
+      <point x="298" y="691" type="line"/>
     </contour>
   </outline>
 </glyph>

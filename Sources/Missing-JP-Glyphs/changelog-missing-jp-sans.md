@@ -1,5 +1,94 @@
 # Changelog for Missing JP Sans
 
+## 2026-04-12 *(v0.010)*
+*This update includes characters that belong to the 肉月 radical, and also covers miscellaneous Simplified-only characters; all those are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han). In addition, there are some adjustments to existing glyphs, especially characters with the 亻 radical to replace the CN radical design with JP design, and design and proportional adjustments to the other characters while keeping the JP shapes.*
+
+*In addition, the OTF and TTF font filenames would now not have dashes on the family name, because dashes are reserved for separating the weight name from the family name, so it is* WIPSHDCMissingJPGlyphs-ExtraLight.otf *instead of* WIPSHDC-Missing-JP-Glyphs-ExtraLight.otf, *for example. This is to comply with modern OpenType and PostScript specifications.*
+
+### Glyphs added
+
+| Glyph name | Character | Notes                                                                                       |
+| ---------- | --------- | ------------------------------------------------------------------------------------------- |
+| uni5185    | 内         |                                                                                             |
+| uni51B3    | 决         |                                                                                             |
+| uni5265    | 剥         | Glyph partially based on uni525D-JP 剝                                                       |
+| uni52B1    | 励         |                                                                                             |
+| uni5389    | 厉         |                                                                                             |
+| uni5434    | 吴         |                                                                                             |
+| uni54CD    | 响         |                                                                                             |
+| uni5631    | 嘱         |                                                                                             |
+| uni56ED    | 园         |                                                                                             |
+| uni5704    | 圄         |                                                                                             |
+| uni5C3D    | 尽         |                                                                                             |
+| uni5C5E    | 属         | Glyph partially based on the uni5C5E-TW glyph as it has elements of the unreleased JP glyph |
+| uni5E2E    | 帮         |                                                                                             |
+| uni60E7    | 惧         |                                                                                             |
+| uni629B    | 抛         |                                                                                             |
+| uni62BC    | 押         |                                                                                             |
+| uni62C5    | 担         |                                                                                             |
+| uni6491    | 撑         |                                                                                             |
+| uni664B    | 晋         |                                                                                             |
+| uni6715    | 朕         |                                                                                             |
+| uni6CEA    | 泪         |                                                                                             |
+| uni6E7F    | 湿         |                                                                                             |
+| uni72B6    | 状         |                                                                                             |
+| uni72EC    | 独         |                                                                                             |
+| uni72ED    | 狭         |                                                                                             |
+| uni732A    | 猪         | Glyph partially based on uniFA16-JP 猪                                                       |
+| uni76D6    | 盖         |                                                                                             |
+| uni76D7    | 盗         | Glyph partially based on uni76DC-JP 盜                                                       |
+| uni788D    | 碍         |                                                                                             |
+| uni78B1    | 碱         |                                                                                             |
+| uni7B0B    | 笋         |                                                                                             |
+| uni7B14    | 笔         |                                                                                             |
+| uni808C    | 肌         |                                                                                             |
+| uni809A    | 肚         |                                                                                             |
+| uni809D    | 肝         |                                                                                             |
+| uni80A4    | 肤         |                                                                                             |
+| uni80A5    | 肥         |                                                                                             |
+| uni80AF    | 肯         |                                                                                             |
+| uni80C3    | 胃         |                                                                                             |
+| uni80C6    | 胆         |                                                                                             |
+| uni80CC    | 背         |                                                                                             |
+| uni80DA    | 胚         |                                                                                             |
+| uni80E1    | 胡         |                                                                                             |
+| uni8102    | 脂         |                                                                                             |
+| uni8106    | 脆         |                                                                                             |
+| uni8109    | 脉         | Glyph partially based on the uni8109uE0101-JP variant glyph                                 |
+| uni8131    | 脱         |                                                                                             |
+| uni814A    | 腊         |                                                                                             |
+| uni8179    | 腹         |                                                                                             |
+| uni818A    | 膊         | Glyph partially based on the uni818AuE0101-JP variant glyph                                 |
+| uni819C    | 膜         |                                                                                             |
+| uni83B1    | 莱         |                                                                                             |
+| uni867D    | 虽         |                                                                                             |
+| uni8721    | 蜡         |                                                                                             |
+| uni8D76    | 赶         |                                                                                             |
+| uni9EA6    | 麦         |                                                                                             |
+| uni9EC4    | 黄         |                                                                                             |
+| uni9ED8    | 默         |                                                                                             |
+
+### Glyphs modified
+
+| Glyph name | Character | Notes                                                                                                                                                                                  |
+| ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| uni4ED8    | 付         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni4EDE    | 仞         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni4EF6    | 件         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni4F0F    | 伏         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni4F70    | 佰         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni4F73    | 佳         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni4F8D    | 侍         | Redesigned left 亻 radical to JP-style                                                                                                                                                  |
+| uni522E    | 刮         | Adjusted component proportions in ExtraLight to make the glyph more JP-like                                                                                                            |
+| uni543B    | 吻         | Adjusted radical proportions in ExtraLight to allow more breathing room for component spacing                                                                                          |
+| uni547C    | 呼         | Adjusted radical proportions in ExtraLight to allow more breathing room for component spacing                                                                                          |
+| uni5589    | 喉         | Removed the nubbing in the top-right ユ component to make it consistent with other similar characters and to fix Adobe-Japan1 component inconsistency                                   |
+| uni62BD    | 抽         | Adjusted radical proportions in ExtraLight (i.e. reverted left 扌 radical to the original shape of the CN glyph in ExtraLight to balance it with comparison to the new uni62BC 押 glyph) |
+| uni6674    | 晴         | Adjusted the height of the top part in the right 青 component in ExtraLight                                                                                                             |
+| uni7269    | 物         | Adjusted the shape of the first 丿 stroke in the right 勿 component in both masters to make it more consistent with Source Han Sans JP glyph design                                      |
+| uni7334    | 猴         | Removed the nubbing in the top-right ユ component to make it consistent with other similar characters and to fix Adobe-Japan1 component inconsistency                                   |
+| uni7406    | 理         | Adjusted radical proportions in ExtraLight to allow more breathing room for component spacing                                                                                          |
+
 ## 2026-04-12 *(v0.009)*
 *This small update includes characters that belong to the 玉, 皿, 石, 竹(𥫗), 米, 罒, 羽 and 耒 radicals, that are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han), alongside two characters which have the 者 component. In addition, there are some adjustments to existing glyphs.*
 

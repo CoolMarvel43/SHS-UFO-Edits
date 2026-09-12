@@ -31,8 +31,8 @@ cid09862
       <point x="428" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="984" y="237" type="line"/>
-      <point x="984" y="379" type="line"/>
+      <point x="975" y="237" type="line"/>
+      <point x="975" y="379" type="line"/>
       <point x="316" y="379" type="line"/>
       <point x="316" y="237" type="line"/>
     </contour>
@@ -49,11 +49,11 @@ cid09862
       <point x="301" y="638"/>
     </contour>
     <contour>
-      <point x="140" y="564" type="line"/>
-      <point x="140" y="-94" type="line"/>
-      <point x="278" y="-94" type="line"/>
-      <point x="278" y="701" type="line"/>
-      <point x="278" y="702" type="line"/>
+      <point x="136" y="564" type="line"/>
+      <point x="136" y="-94" type="line"/>
+      <point x="274" y="-94" type="line"/>
+      <point x="274" y="701" type="line"/>
+      <point x="274" y="702" type="line"/>
     </contour>
   </outline>
 </glyph>
