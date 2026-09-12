@@ -34,7 +34,7 @@
 | uni72B6    | 状         |                                                                                             |
 | uni72EC    | 独         |                                                                                             |
 | uni72ED    | 狭         |                                                                                             |
-| uni732A    | 猪         | Glyph partially based on uniFA16-JP 猪                                                       |
+| uni732A    | 猪         | Glyph partially based on uniFA16-JP 猪                                                       |
 | uni76D6    | 盖         |                                                                                             |
 | uni76D7    | 盗         | Glyph partially based on uni76DC-JP 盜                                                       |
 | uni788D    | 碍         |                                                                                             |
