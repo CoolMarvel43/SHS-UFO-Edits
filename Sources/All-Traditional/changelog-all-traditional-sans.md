@@ -1,10 +1,59 @@
 # Changelog for All Traditional Sans
 
+## 2026-09-27 *(v0.009)*
+
+*This minor update has glyph adjustments for some existing characters, a few miscellaneous additions, and also includes complete support for Big5 and HKSCS for characters with the 骨 radical, some of them redesigned to JP aesthetics, for no reason at all.*
+
+*In addition, the OTF and TTF font filenames would now not have dashes on the family name, because dashes are reserved for separating the weight name from the family name, so it is* WIPSHDCAllTraditionalSans-ExtraLight.otf *instead of* WIPSHDC-All-Traditional-Sans-ExtraLight.otf, *for example. This is to comply with modern OpenType and PostScript specifications.*
+
+*A refactoring of this repository along with the updated glyph list tables is still in progress. The total glyphs is now 1353.*
+
+### Glyphs added
+
+| Glyph name        | Character | Notes                                                                                                                                                                                      |
+| ----------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| uni526A.MN        | 剪         | This glyph will be moved to Design Fix in the next update                                                                                                                                  |
+| uni5E2E           | 帮         | Simplified character, part of HKSCS                                                                                                                                                        |
+| uni5E2E.CL1       | 帮         | Simplified character, part of HKSCS, variant where the third stroke of the left 丰 component in 邦 is an angled stroke, and the first stroke is a 丿 stroke.                                  |
+| uni5E2E.MN        | 帮         | Simplified character, part of HKSCS, variant where the first stroke of the left 丰 component in 邦 is a 丿 stroke. Redesigned HK glyph, so it will be moved to Design fix in the next update. |
+| uni6B0A.inherited | 權         | Modified from Chiukong Gothic, redone with v2.005 outlines                                                                                                                                 |
+| uni8319           | 茙         | Uncommon Big5 L2 character                                                                                                                                                                 |
+| uni8319.inherited | 茙         | Uncommon Big5 L2 character                                                                                                                                                                 |
+| uni833F           | 茿         | Uncommon Big5 L2 character, variant where the 巩 component is ⿰工卂 (and therefore the current glyph has been renamed to uni833F.alt1)                                                        |
+| uni833F.CL1       | 茿         | Uncommon Big5 L2 character, variant where the 巩 component is ⿰工卂 with the split 艹 stroke                                                                                                   |
+| uni9AAB           | 骫         | Uncommon Big5 L2 character                                                                                                                                                                 |
+| uni9AAB.inherited | 骫         | Uncommon Big5 L2 character, glyph follows v1 JP glyph in Serif                                                                                                                             |
+| uni9AB1           | 骱         | Part of the GB12345, jf7000 Taiwan and Big5 L2 character sets                                                                                                                              |
+| uni9AB3           | 骳         | Uncommon Big5 L2 character. This glyph will be moved to Design Fix in the next update as this is a redesigned HK glyph.                                                                    |
+| uni9ABA           | 骺         | Part of the GB12345 and HKSCS character sets                                                                                                                                               |
+| uni9ABD.MN        | 骽         | Uncommon HKSCS character                                                                                                                                                                   |
+| uni9ABF           | 骿         | Uncommon Big5 L2 and jf7000 Taiwan character, making the Kyujitai-style 幷 component consistent across similar characters                                                                   |
+| uni9ABF.MN        | 骿         | Uncommon Big5 L2 and jf7000 Taiwan character, modern variant. This glyph might be moved to Design Fix in the next update as this is a redesigned HK glyph.                                 |
+| uni9AC7           | 髇         | Uncommon Big5 L2 character                                                                                                                                                                 |
+| uni9ACA           | 髊         | Uncommon Big5 L2 character. This glyph might be moved to Design Fix in the next update as this is a redesigned HK glyph.                                                                   |
+| uni9ACD           | 髍         | Uncommon Big5 L2 character                                                                                                                                                                 |
+
+### Glyphs modified
+
+| Glyph name  | Character | Notes                                                                                                                           |
+| ----------- | --------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| uni41F6     | 䇶         | Adjusted the top 𥫗 radical in Heavy                                                                                            |
+| uni61F1.CL1 | 懱         | Adjusted glyph to make it more visually consistent with the corresponding glyph that is redesigned in the [V1 Revival](/../../tree/main/Sources/V1-Revival) repository |
+| uni62CB     | 拋         | Adjusted glyph shapes to make it more visually consistent with U+62CB 拋 uploaded to the [Missing JP](/../../tree/main/Sources/Missing-JP-Glyphs) repository |
+| uni63DE.CL1 | 揞         | Adjusted proportion of horizontal stroke 音 component |
+| uni9AC2     | 髂         | Adjusted proportion of 骨 radical as there is a bit too much space between components in ExtraLight |
+
+### Glyphs renamed
+
+| Glyph name              | Character | Notes                                                                                                                                                     |
+| ----------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| uni833F -> uni833F.alt1 | 茿         | The TW-style 巩 component is incompatible with the CL rules in the [glyph policy](glyph-policy.md), so it is renamed to alt1 due to the unsplit 艹 radical. |
+
 ## 2026-08-23 *(v0.008)*
 
 *This update includes modern forms of the 肖, 青, 龹, 鬲, and 賣 components, covering GB12345 and jf7000 Base. A few glyphs with the MN2 羽 component and 尚 component are also included, which means they're not fully covered in this update. In addition, a few MN3 glyphs are included which are JP-style redesigns of TW glyphs, like 改 and 寺 component (experimental). And finally some miscellaneous fixes and additions.*
 
-*This update will be the final time I will include minor design fixes for existing JP/KR glyphs, as the Feet Fix repository will be renamed to "Design Fix" (which also means any future minor fixes for Serif glyphs which can still potentially fit within the official SHSerif regional glyph policy will also be included). Expect some glyphs to be removed from this subfolder and migrated there in the next 0.009 update.*
+*This update will be the final time I will include minor design fixes for existing JP/KR glyphs, as the Feet Fix repository will be renamed to "Design Fix" (which also means any future minor fixes for Serif glyphs which can still potentially fit within the official SHSerif regional glyph policy will also be included). Expect some glyphs to be removed from this subfolder and migrated there in the next ~~0.009~~ 0.010 update.*
 
 *The glyph list still isn't updated again due to lack of time. There are 1333 glyphs in this repository.*
 

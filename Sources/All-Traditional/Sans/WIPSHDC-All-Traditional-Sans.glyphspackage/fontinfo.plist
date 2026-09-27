@@ -1,5 +1,5 @@
 {
-.appVersion = "3436";
+.appVersion = "3532";
 .formatVersion = 3;
 axes = (
 {
@@ -53,7 +53,7 @@ value = (
 );
 }
 );
-date = "2026-08-22 19:07:23 +0000";
+date = "2026-09-27 06:35:13 +0000";
 familyName = "WIPSHDC-All-Traditional-Sans";
 fontMaster = (
 {
@@ -335,5 +335,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 8;
+versionMinor = 9;
 }

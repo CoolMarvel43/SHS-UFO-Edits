@@ -124,14 +124,14 @@ cid06289
     <contour>
       <point x="713" y="831" type="curve"/>
       <point x="575" y="865" type="line"/>
-      <point x="548" y="792"/>
-      <point x="495" y="718"/>
-      <point x="434" y="672" type="curve"/>
-      <point x="469" y="657"/>
-      <point x="531" y="627"/>
-      <point x="561" y="605" type="curve"/>
-      <point x="617" y="658"/>
-      <point x="678" y="744"/>
+      <point x="546" y="787"/>
+      <point x="489" y="708"/>
+      <point x="424" y="660" type="curve"/>
+      <point x="459" y="645"/>
+      <point x="521" y="614"/>
+      <point x="552" y="592" type="curve"/>
+      <point x="611" y="648"/>
+      <point x="676" y="739"/>
     </contour>
     <contour>
       <point x="336" y="727" type="curve"/>
@@ -154,4 +154,10 @@ cid06289
       <point x="816" y="700"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-27 06:58:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>
