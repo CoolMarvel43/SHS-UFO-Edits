@@ -17,8 +17,8 @@
 | uni5E2E.CL1       | 帮         | Simplified character, part of HKSCS, variant where the third stroke of the left 丰 component in 邦 is an angled stroke, and the first stroke is a 丿 stroke.                                  |
 | uni5E2E.MN        | 帮         | Simplified character, part of HKSCS, variant where the first stroke of the left 丰 component in 邦 is a 丿 stroke. Redesigned HK glyph, so it will be moved to Design fix in the next update. |
 | uni6B0A.inherited | 權         | Modified from Chiukong Gothic, redone with v2.005 outlines                                                                                                                                 |
-| uni8319           | 茙         | Uncommon Big5 L2 character                                                                                                                                                                 |
-| uni8319.inherited | 茙         | Uncommon Big5 L2 character                                                                                                                                                                 |
+| uni8319           | 茙         | Uncommon Big5 L2 character, bottom 戎 component follows the look of the uni620E-JP glyph |
+| uni8319.inherited | 茙         | Uncommon Big5 L2 character, variant with the split 艹 stroke and the bottom 戎 component following the look of the uni620E-JP glyph |
 | uni833F           | 茿         | Uncommon Big5 L2 character, variant where the 巩 component is ⿰工卂 (and therefore the current glyph has been renamed to uni833F.alt1)                                                        |
 | uni833F.CL1       | 茿         | Uncommon Big5 L2 character, variant where the 巩 component is ⿰工卂 with the split 艹 stroke                                                                                                   |
 | uni9AAB           | 骫         | Uncommon Big5 L2 character                                                                                                                                                                 |
@@ -26,7 +26,7 @@
 | uni9AB1           | 骱         | Part of the GB12345, jf7000 Taiwan and Big5 L2 character sets                                                                                                                              |
 | uni9AB3           | 骳         | Uncommon Big5 L2 character. This glyph will be moved to Design Fix in the next update as this is a redesigned HK glyph.                                                                    |
 | uni9ABA           | 骺         | Part of the GB12345 and HKSCS character sets                                                                                                                                               |
-| uni9ABD.MN        | 骽         | Uncommon HKSCS character                                                                                                                                                                   |
+| uni9ABD.MN        | 骽         | Uncommon HKSCS character, modern variant |
 | uni9ABF           | 骿         | Uncommon Big5 L2 and jf7000 Taiwan character, making the Kyujitai-style 幷 component consistent across similar characters                                                                   |
 | uni9ABF.MN        | 骿         | Uncommon Big5 L2 and jf7000 Taiwan character, modern variant. This glyph might be moved to Design Fix in the next update as this is a redesigned HK glyph.                                 |
 | uni9AC7           | 髇         | Uncommon Big5 L2 character                                                                                                                                                                 |
