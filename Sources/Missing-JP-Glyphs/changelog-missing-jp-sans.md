@@ -1,6 +1,6 @@
 # Changelog for Missing JP Sans
 
-## 2026-04-12 *(v0.010)*
+## 2026-09-12 *(v0.010)*
 *This update includes characters that belong to the 肉月 radical, and also covers miscellaneous Simplified-only characters; all those are in the [Educational 1 list in the Glyphs app](https://github.com/3type/glyphs-han). In addition, there are some adjustments to existing glyphs, especially characters with the 亻 radical to replace the CN radical design with JP design, and design and proportional adjustments to the other characters while keeping the JP shapes.*
 
 *In addition, the OTF and TTF font filenames would now not have dashes on the family name, because dashes are reserved for separating the weight name from the family name, so it is* WIPSHDCMissingJPGlyphs-ExtraLight.otf *instead of* WIPSHDC-Missing-JP-Glyphs-ExtraLight.otf, *for example. This is to comply with modern OpenType and PostScript specifications.*
